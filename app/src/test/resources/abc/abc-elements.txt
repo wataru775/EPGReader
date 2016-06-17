@@ -1,0 +1,14 @@
+                    <div class="program_227">
+
+                        <p class="program_time">11:35</p>
+                        <p class="program_name">エビ推シ～【ＡＢＣテレビのおススメ番組＆見どころをエビシーが紹介！】</p>
+                        <p class="icon"></p>
+
+                    </div>
+                    <div class="program_228">
+                        <a href="http://asahi.co.jp/weather/" target="_top">
+                            <p class="program_time">11:40</p>
+                            <p class="program_name">ＡＢＣ天気予報</p>
+                            <p class="icon"></p>
+                        </a>
+                    </div>

@@ -1,35 +1,12 @@
 package org.mmpp.rssreader.parser.suntv;
 
 import org.mmpp.rssreader.parser.AbstractProgramParser;
-import org.mmpp.rssreader.parser.Program;
-
-import java.util.List;
 
 /**
+ * サンテレビの番組表から番組情報を抽出するクラス
  * Created by wataru-n on 2016/06/14.
- * 			<prgItem>
- <st>2530</st>
- <en>2600</en>
- <name>くまみこ</name>
- <icon>[終]</icon>
- <rate>決断◇山奥にある熊を奉る神社の巫女まちは、都会の学校に行きたい！世間知らずのまちに、後見人のクマがあらゆる試練を与える！</rate>
- <content_nibble>
- <level_1>アニメ／特撮</level_1>
- <level_2>国内アニメ</level_2>
- </content_nibble>
- <extended_event>
- <name>出演者</name>
- <item>【声の出演】
- 日岡なつみ
- 安元洋貴
- 興津和幸
- 喜多村英梨
- ほか</item>
- </extended_event>
- </prgItem>
-
  */
-public class ProgramItemParser extends AbstractProgramParser {
+public class ProgramItemParser extends AbstractProgramParser<ProgramItem> {
     // 唯一のパーサー
     private static ProgramItemParser programItemParser = new ProgramItemParser();
 
@@ -45,14 +22,16 @@ public class ProgramItemParser extends AbstractProgramParser {
      * @param source 対象のHTMLソース
      * @return 番組情報一覧
      */
+    @Override
     public java.util.List<ProgramItem> parseItems(String source){
         java.util.ArrayList<ProgramItem> programItems = new java.util.ArrayList<ProgramItem>();
 
+        // 放送日を取得します
         String startDate = readAttribute(source,"prgDataEntry","date");
 
-        // 要素を取り出す
+        // 放送日の番組情報を解析します
         // prgItemタグの間
-        for(String dataItemSource : getTagValues2(source,"prgData")) {
+        for(String dataItemSource : splitSourceTagName(source,"prgData")) {
             String yobi = readAttribute(dataItemSource,"prgData","yobi");
 
             for(String prgItemSource : getTagValues(dataItemSource,"prgItem")) {
@@ -66,25 +45,34 @@ public class ProgramItemParser extends AbstractProgramParser {
         return programItems;
     }
 
-    private java.util.List<String> getTagValues2(String source, String tagName) {
+    /**
+     * ソースの中からタグ名で括られた範囲を分割します
+     * @param source ソース
+     * @param tagName タグ名
+     * @return 分割ソース
+     */
+    private java.util.List<String> splitSourceTagName(String source, String tagName) {
         java.util.List<String> results = new java.util.ArrayList<String>();
         StringBuffer buf = new StringBuffer();
-        boolean isReadStart = false;
+        // タグ開始、読み込み開始フラグ
+        boolean flgReadStart = false;
         for (String line : source.split("\n")) {
+
+            // タグ開始判断
             if(contentEquals(line,tagName)) {
-//                    System.out.println("   == Start == : " + results.size());
-                isReadStart = true;
+                flgReadStart = true;
                 buf = new StringBuffer();
             }
+            // タグ終了判断
             if(contentEquals(line,"/"+tagName)) {
                 if(buf.length()==0){
                     continue;
                 }
-//                    System.out.println("   ==  END  == " + results.size() + " size : "+buf.length());
-                isReadStart = false;
+                flgReadStart = false;
                 results.add(buf.toString());
             }
-            if(isReadStart){
+            // タグ範囲書き込み判断
+            if(flgReadStart){
                 buf.append(line);
                 buf.append("\n");
             }
@@ -94,11 +82,6 @@ public class ProgramItemParser extends AbstractProgramParser {
 
     private java.util.List<String> getTagValues(String source, String tagName) {
         java.util.List<String> results = new java.util.ArrayList<String>();
-
-//        System.out.println("----------------------");
-//        System.out.println(source);
-//        System.out.println("======================");
-
             StringBuffer buf = new StringBuffer();
             boolean isReadStart = false;
             for (String line : source.split("\n")) {
@@ -154,7 +137,13 @@ public class ProgramItemParser extends AbstractProgramParser {
     }
 
 
-
+    /**
+     * タグ名のアトリビュートの値を取得します
+     * @param source ソース
+     * @param tagName 対象タグ名
+     * @param attributeName アトリビュート
+     * @return アトリビュート値
+     */
     public static String readAttribute(String source, String tagName, String attributeName) {
         String tagSource = readTag(source,tagName);
         if(tagSource==null)
@@ -192,10 +181,5 @@ public class ProgramItemParser extends AbstractProgramParser {
 
         }
         return null;
-    }
-
-    @Override
-    public List<Program> parse(String source) {
-        return ProgramConverter.convert(parseItems(source));
     }
 }

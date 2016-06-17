@@ -19,6 +19,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.LinkedList;
 
 public class MainActivity extends AppCompatActivity {
@@ -32,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClickButton(View view){
+        asynctask_job();
 
     }
 
@@ -44,31 +46,22 @@ public class MainActivity extends AppCompatActivity {
     private void asynctask_job(){
         final AsyncJob asynctask = new AsyncJob(this);
 
-        asynctask.execute("http://sun-tv.co.jp/i_prog/data/timeTable_SUN_20160613.xml?cache=1466077422410","B","C");
+        asynctask.execute("http://sun-tv.co.jp/i_prog/data/timeTable_SUN_20160613.xml","B","C");
 
     }
 
     public void updateTable(String result){
      //   Log.e("== result ==",result);
-        java.util.List<String> tables = new LinkedList<String>();
-        java.util.List<Program> programs = new LinkedList<Program>();
+        ArrayAdapter arrayAdapter = new CardListAdapter(getApplicationContext());
+        Calendar calendar = Calendar.getInstance();
+        for(Program program:ProgramItemParser.getInstance().parse(result)){
 
-        programs = ProgramItemParser.getInstance().parse(result);
-
-
-        // Pgogram >> Table String
-        tables = new LinkedList<String>();
-
-        for (Program program : programs) {
-            SimpleDateFormat simpleDateFormat = new SimpleDateFormat("hh:mm");
-            StringBuffer buf = new StringBuffer();
-            buf.append(simpleDateFormat.format(program.start));
-            buf.append(program.title);
-            tables.add(buf.toString());
+            // 終わっていない番組のみ表示対象
+            if(program.end.getTime() < calendar.getTime().getTime())
+                continue;
+            // 表示番組を追加する
+            arrayAdapter.add(program);
         }
-
-        ArrayAdapter arrayAdapter = new ArrayAdapter(this, R.layout.rowdata, tables);
-
         ListView listView = (ListView)this.findViewById(R.id.listView);
         listView.setAdapter(arrayAdapter);
     }

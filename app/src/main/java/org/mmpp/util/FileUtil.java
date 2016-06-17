@@ -1,5 +1,6 @@
 package org.mmpp.util;
 
+import java.io.File;
 import java.io.IOException;
 
 /**
@@ -25,4 +26,22 @@ public class FileUtil {
         return buf.toString();
     }
 
+    /**
+     * ファイルの内容を抽出します
+     * @param file 対象ファイル
+     * @return ファイルの内容
+     * @throws IOException 発生例外
+     */
+    public static String readStringFromFile(File file) throws IOException {
+        java.io.BufferedReader br = null;
+        try {
+            br = new java.io.BufferedReader(new java.io.FileReader(file));
+
+            return readStringFromReader(br);
+        }finally{
+            if(br!=null)
+                br.close();
+        }
+
+    }
 }

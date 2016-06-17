@@ -1,35 +1,19 @@
 package org.mmpp.rssreader.parser.suntv;
 
-/**
- * Created by wataru-n on 2016/06/14.
- * 			<prgItem>
- <st>2530</st>
- <en>2600</en>
- <name>くまみこ</name>
- <icon>[終]</icon>
- <rate>決断◇山奥にある熊を奉る神社の巫女まちは、都会の学校に行きたい！世間知らずのまちに、後見人のクマがあらゆる試練を与える！</rate>
- <content_nibble>
- <level_1>アニメ／特撮</level_1>
- <level_2>国内アニメ</level_2>
- </content_nibble>
- <extended_event>
- <name>出演者</name>
- <item>【声の出演】
- 日岡なつみ
- 安元洋貴
- 興津和幸
- 喜多村英梨
- ほか</item>
- </extended_event>
- </prgItem>
+import org.mmpp.rssreader.parser.AbstractProgramItem;
+import org.mmpp.rssreader.parser.Program;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+
+/**
+ * サンテレビの番組情報格納変数
+ * Created by wataru-n on 2016/06/14.
  */
-public class ProgramItem {
-    /**
-     * 開始時間
-     * tag : <st>
-     */
-    public String start;
+public class ProgramItem extends AbstractProgramItem{
+
     /**
      * 終了時間
      * tag : <end>
@@ -37,12 +21,60 @@ public class ProgramItem {
     public String end;
 
     /**
-     * タイトル
-     * tag : name
+     * 表示アイコン
      */
-    public String name;
-
     public String icon;
 
+    /**
+     * 放送日
+     * startは開始時間の文字列のみを格納しています
+     */
     public String date;
+    /**
+     * 放送局名
+     */
+    public String channel = "サンテレビ";
+
+    @Override
+    public Program convert() {
+
+        Program program = new Program();
+
+
+        program.title = this.name;
+        try {
+            program.start = convertDate(this.date,this.start);
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+        try {
+            program.end = convertDate(this.date,this.end);
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+        ;
+
+
+        return program;
+    }
+
+    /**
+     * 文字列の日付情報を日付変数に変換する
+     * @param date 日付
+     * @param time 時間
+     * @return 日付変数
+     * @throws ParseException 書式エラー
+     */
+    public static Date convertDate(String date, String time) throws ParseException {
+
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyyMMdd-HHmm");
+
+        if(time.length()==3)
+            time="0"+time;
+
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(simpleDateFormat.parse(date+"-"+time));
+
+        return calendar.getTime();
+    }
 }
