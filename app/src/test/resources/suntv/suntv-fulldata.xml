@@ -1,0 +1,4839 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<timeTable timeStamp='20160615T030003+0900'>
+	<prgDataEntry date='20160620'>
+		<prgData yobi='1'>
+			<prgItem>
+				<st>500</st>
+				<en>530</en>
+				<name></name>
+			</prgItem>
+			<prgItem>
+				<st>530</st>
+				<en>543</en>
+				<name>天気予報</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>543</st>
+				<en>545</en>
+				<name>オープニング</name>
+			</prgItem>
+			<prgItem>
+				<st>545</st>
+				<en>615</en>
+				<name>インフォマーシャル</name>
+				<rate>いつまでも若々しい肌を！（すっぽん小町）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>615</st>
+				<en>620</en>
+				<name>メダカのコタロー</name>
+				<rate>ひょうごの自然環境を守ろう！　いなみ野ため池ミュージアム編⑧</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>620</st>
+				<en>650</en>
+				<name>テレビショッピング</name>
+				<rate>肩や腰の痛みの悩みに（リョウシンJV錠）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>650</st>
+				<en>655</en>
+				<name>コタローとおはよ～！</name>
+				<rate>◇ひょうごの農村環境を守ろう！ぼくたちキラリ輝き応援団</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>655</st>
+				<en>700</en>
+				<name>天気予報</name>
+				<rate>今日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>700</st>
+				<en>730</en>
+				<name>Ｋｉｄｓ劇場　仮面ライダードライブ</name>
+				<rate>私の弟にはなぜブレーキがないのか◇警視庁の刑事、進ノ介は、怪事件の犯人逮捕のため、そして謎の怪人・ロイミュードと戦うため変身する！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>特撮</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>竹内涼真
+内田理央
+片岡鶴太郎
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>730</st>
+				<en>800</en>
+				<name>　魔法騎士レイアース</name>
+				<icon>[新]</icon>
+				<rate>伝説のマジックナイト始動◇突然、異世界セフィーロに導かれた３人の少女は魔法騎士として、エメロード姫を救出するために戦いの冒険に旅立つ！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+椎名へきる
+吉田小南美
+笠原弘子
+緒方恵美
+佐々木望
+白鳥由里
+山崎たくみ
+小杉十郎太
+天野由梨
+篠原恵美
+高山みなみ
+置鮎龍太郎
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>800</st>
+				<en>830</en>
+				<name>ドラマ　ネコナデ</name>
+				<icon>[再]</icon>
+				<icon>[終]</icon>
+				<icon>[字]</icon>
+				<rate>いつもの風景が、違って見えたら吉日◇清廉潔白な中年企業戦士の捨て猫飼育格闘物語</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>国内ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>小木茂光
+ちすん
+清水美佐
+峰岸徹
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>830</st>
+				<en>900</en>
+				<name>お茶の間ショッピング</name>
+				<rate>健康のため体操を！（カーブス健康体操教室）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>900</st>
+				<en>930</en>
+				<name>健康情報テレビ</name>
+				<rate>健やか元気人（アサヒ緑健）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>930</st>
+				<en>1000</en>
+				<name>テレビショッピング</name>
+				<rate>▽快適な睡眠をあなたに（トゥルースリーパープレミアム／オークローン）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1000</st>
+				<en>1030</en>
+				<name>ショッピングセレクト</name>
+				<rate>１本でいいんです</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1030</st>
+				<en>1100</en>
+				<name>健康に感謝</name>
+				<rate>▽更年期に近い女性にオススメ！（紅麗珠／エバーライフ）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1100</st>
+				<en>1155</en>
+				<name>ドラマ１１　棚ぼたのあなた</name>
+				<rate>＜字幕スーパー＞◇最強の嫁ヒロインが嫁ぎ先の大家族と繰り広げるロマンティックホームコメディ！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>キム・ナムジュ
+ユ・ジュンサン
+カン・ミンヒョク
+ユン・ユジョン</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ</name>
+					<item>ついにヤンシルと対決したグィナムは、30年前の事実を認めながらも「私のほうが地獄だった」と言うヤンシルに、これまでの苦しみを涙で激白。その姿を偶然見てしまったユニは、その夜グィナムを「あなたには私がいる」と優しく励ます。セグァンの好みの女性に変わるため、ブランドの服もメイクもやめて必死のマルスク。一方、イスクとギュヒョンの仲が気になるジェヨンは、ユニに相談する。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1155</st>
+				<en>1200</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1200</st>
+				<en>1257</en>
+				<name>時代劇アワー　暴れん坊将軍Ⅱ</name>
+				<rate>纏に誓ったやせ我慢</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>松平健
+横内正
+有島一郎
+北島三郎
+春川ますみ
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1257</st>
+				<en>1300</en>
+				<name>天気予報</name>
+				<rate>今日の天気（ベルコ）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1300</st>
+				<en>1355</en>
+				<name>韓国ドラマ　宮廷女官チャングムの誓い</name>
+				<rate>&lt;字幕スーパー&gt;失意の日々◇不幸な家庭環境に生まれたチャングムが、偉大なるチャングムの称号をもらうまでの波乱の半生を描く！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>イ・ヨンエ
+イム・ヒョンシク
+クム・ボラ
+ほか</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ１</name>
+					<item>宮中を抜け出した罪で捕らえられたチャングム。しかしチョン最高尚宮（チェゴサングン）とハン尚宮（サングン）の必死の取り計らいで、宮中追放処分は免れ、配置換えとなる。
+チャングムの新しい配属先は菜園。菜園とは王宮の隅にある薬草畑で、異国の香辛料や薬草の栽培を試みるところ。しかし今まで栽培が成功したことはなく、事実上、宮中で見捨てられた人が配属される部署だった。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ２</name>
+					<item>菜園近くには護衛部隊の練兵場があり、菜園に向かうチャングムは過日傷の手当てをしたミン・ジョンホとすれ違う。傷から回復し職場に復帰したチョンホは、手当てをしてくれた命の恩人である女性の落し物、ノリゲを大切に持っていた。
+菜園では誰一人働いておらず、チャングムは責任者チョン・ウンベクから「何もしないことが仕事だ」と言い渡される。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1355</st>
+				<en>1400</en>
+				<name>天気予報</name>
+				<rate>今夜の天気（学会の天気）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1400</st>
+				<en>1430</en>
+				<name>インフォマーシャル</name>
+				<rate>▽元気で若々しい毎日を！（緑の習慣）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1430</st>
+				<en>1455</en>
+				<name>お買物生活情報</name>
+				<rate>▽驚くほどくっつかない！（セラフィット/オークローン）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1455</st>
+				<en>1500</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1500</st>
+				<en>1555</en>
+				<name>ドラマ　はみだし刑事情熱系Ⅲ</name>
+				<rate>兵吾と玲子～離婚の理由と許されぬ愛・・・◇スリルあふれる事件展開、涙と笑いの人間ドラマが一体となった現代へのメッセージを発信！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>国内ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>柴田恭兵
+風間トオル
+風吹ジュン
+中山忍
+前田愛
+樹木希林</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1555</st>
+				<en>1600</en>
+				<name>サウンドコンポ</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>国内ロック・ポップス</level_2>
+				</content_nibble>
+				<user_nibble>中止の可能性あり</user_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1600</st>
+				<en>1630</en>
+				<name>インフォマーシャル</name>
+				<rate>▽深海からの贈り物（大和田宮古島篇/えがお）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1630</st>
+				<en>1700</en>
+				<name>日曜さわやかトーク</name>
+				<icon>[再]</icon>
+				<rate>災害支援を考える※手話付き</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>福祉</level_1>
+					<level_2>手話</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>井戸敏三ほか</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>今月は、「災害支援を考える」をテーマに、ひょうごボランタリープラザ災害支援アドバイザーの高橋守雄さんと、社会福祉法人兵庫県社会福祉協議会福祉事業部長の馬場正一さんを迎えて井戸知事と対談。今年４月に発生した熊本地震において、いち早く現場に駆け付け、ボランティア派遣などの支援活動に取り組んだお二人。</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>番組では、阪神・淡路大震災を経験した兵庫県が果たすべき役割や、熊本地震から見えてきた課題、災害支援の在り方について、知事と語り合います。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1700</st>
+				<en>1745</en>
+				<name>５時に夢中！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1745</st>
+				<en>1750</en>
+				<name>メダカのコタロー</name>
+				<rate>ひょうごの自然環境を守ろう！　農村環境を守る④</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1750</st>
+				<en>1800</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1800</st>
+				<en>1830</en>
+				<name>温泉女子</name>
+				<icon>[再]</icon>
+				<rate>越後湯沢温泉！文豪の愛した街でぬくもりを感じる旅◇週末にエステやジムに行く感覚で温泉地に行ければ最高！行きたい時に行ける１泊２日の気軽な温泉旅をご紹介</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+中園彩香
+松本さやか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1830</st>
+				<en>1925</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1925</st>
+				<en>1930</en>
+				<name>サウンドコンポ</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>国内ロック・ポップス</level_2>
+				</content_nibble>
+				<user_nibble>中止の可能性あり</user_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1930</st>
+				<en>2000</en>
+				<name>西遊記外伝　モンキーパーマ２</name>
+				<icon>[再]</icon>
+				<icon>[終]</icon>
+				<rate>「さすらい」◇「TEAM NACS」がメンバー総出演でお贈りする人形劇！暴力排除で妖怪を煙に巻く！！セカンドシーズン！</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>トークバラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+森崎博之（三蔵法師）
+大泉洋（孫悟空）
+戸次重幸（沙悟浄）
+音尾琢真（猪八戒）
+安田顕（玉龍）
+ほか</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>▽ついに閻魔体毛と悟空が直接対決！！衝撃の最終回！その結末とは！？</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2000</st>
+				<en>2054</en>
+				<name>月曜時代劇　水戸黄門（第３部）</name>
+				<rate>明神谷の決闘～小田原～◇将軍家の実権を握ろうとする柳沢吉保の陰謀で、薩摩忍者軍団の刺客が黄門様に忍び寄る・・・</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>東野英治郎
+里見浩太朗
+横内正
+中谷一郎
+高橋元太郎
+宮園純子
+中野誠也
+成田三樹夫
+山形勲
+野川由美子
+前田吟
+</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2054</st>
+				<en>2124</en>
+				<name>ＦＩＳＨＩＮＧ　ＬＩＦＥ</name>
+				<rate>香川県円上島・磯から良型チヌを狙う</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト】
+南康史
+【リポーター】
+島田細香
+【ナレーター】
+加美幸伸</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>今年は水温の上昇も早く、初期からノッコミチヌが釣れている瀬戸内海。今回は香川県観音寺沖の円上島で磯から良型チヌを狙います。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2124</st>
+				<en>2126</en>
+				<name>天気予報</name>
+				<rate>明日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2126</st>
+				<en>2130</en>
+				<name>サンぷん！</name>
+				<rate>クリーピー　偽りの隣人◇今日のおすすめ情報はこちら！</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ナビゲーター】
+亀谷梨沙</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2130</st>
+				<en>2200</en>
+				<name>ＮＥＷＳ　ＰＯＲＴ</name>
+				<rate>　　◇神戸・ポートアイランドから県内のニュースを発信！！</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>小浜英博
+影谷かおり
+前田勝久（気象予報士）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2200</st>
+				<en>2255</en>
+				<name>賢者の選択　Ｌｅａｄｅｒｓ</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2255</st>
+				<en>2300</en>
+				<name>フレッシュガイド</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2300</st>
+				<en>2330</en>
+				<name>太平洋クラブ　Ｃｈａｌｌｅｎｇｅ　ｔｏ　ＧＯＬＦ</name>
+				<rate>神田正輝チームが美女プロ竹村真琴に挑戦！③◇女子プロゴルファーVS.アマチュアゴルファーの対戦型のゴルフ番組！</rate>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>ゴルフ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>竹村真琴プロ
+神田正輝（俳優）
+太平洋クラブ会員
+【進行】
+谷口英明</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>毎月新たな組合せで、日本全国の太平洋クラブ各コースから熱戦をお届け。
+プロの技や心構えを習得しつつ、時に勝ち越しを狙うアグレッシブな戦いに期待。対戦ラウンドに加え、レッスンや情報コーナーも随時お届けします。６月は、太平洋クラブ 成田コースでの模様。視聴者プレゼントほか、詳しくはサンテレビホームページにて</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2330</st>
+				<en>2400</en>
+				<name>うしおととら</name>
+				<rate>最終局面◇「獣の槍」の伝承者となった蒼月潮は大妖怪の「とら」と行動を共にし、襲いくる妖怪どもを次々と蹴散らしていく…</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+畠中祐
+小山力也
+小松未可子
+安野希世乃
+藤原啓治
+牧野由依</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2400</st>
+				<en>2430</en>
+				<name>ばくおん！！</name>
+				<icon>[終]</icon>
+				<rate>もしものせかい！！◇ひょんなことからバイクに興味をもった女子高生が、念願のオートバイ・ライフをスタート！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+上田麗奈
+東山奈央
+内山夕実
+山口立花子
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2430</st>
+				<en>2500</en>
+				<name>森川さんのはっぴーぼーらっきー</name>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>トークバラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+森川智之</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2500</st>
+				<en>2530</en>
+				<name>三者三葉</name>
+				<rate>　◇元お嬢様ら仲良し3人組に加え、元メイドらゴーイングマイウェイな面々がマイペースに大さわぎします！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+和久井優
+金澤まい
+今村彩夏
+Ｍａｃｈｉｃｏ
+鈴木愛奈
+桃河りか
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2530</st>
+				<en>2535</en>
+				<name>うさかめ</name>
+				<rate>◇テニス部の少女たちが夢を追い求める青春群像コメディ開幕！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+中島由貴　
+小出ひかる　
+新井田いづみ　
+谷尻まりあ　
+高尾奏音　
+曽我部英理　
+愛原ありさ</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2535</st>
+				<en>2540</en>
+				<name>ワガママハイスペック</name>
+				<rate>グルグルスイミング◇生徒会女子達の学園生活にフォーカス!!学園の生徒会を舞台に繰り広げられる、ドタバタコメディ作品！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+本多真梨子　
+桜川めぐ　
+後藤麻衣　
+桜咲千依</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2540</st>
+				<en>2545</en>
+				<name>あにトレ！ＥＸ</name>
+				<icon>[再]</icon>
+				<rate>ＥＸ１１　ゆったり太極拳！　体幹、鍛えるんだから！！◇アイドルを目指す５人の可愛いアニメキャラクターが貴方と一緒にエクサ！あなたの体脂肪率を１０００％下げます！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+伊藤美来
+和氣あず未
+小牧未侑
+長縄まりあ
+高尾奏音</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2545</st>
+				<en>2600</en>
+				<name>侵略！ガルパンダＺ</name>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>星美りか
+佐倉絆
+友田彩也香</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2600</st>
+				<en>2630</en>
+				<name>装甲騎兵ボトムズ</name>
+				<rate>絆◇百年戦争の終戦間際、孤高の機甲兵士キリコ・キュービィーが出生の謎、そして、巨大な陰謀に巻き込まれていく！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+郷田ほづみ
+富田耕生
+千葉繁
+川浪葉子
+銀河万丈
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2630</st>
+				<en>2635</en>
+				<name>旦那が何を言っているかわからない件</name>
+				<icon>[再]</icon>
+				<rate>融合賢者の日　◇リア充爆発しろ</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+田村ゆかり
+鈴村健一
+釘宮理恵
+</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>◇真面目で仕事熱心なごく普通のOL・カオル。そんな彼女の旦那は、半ニートで重度のオタクだった。カオルは旦那に振り回されたり心配させられたりするけれど、見ているほうが恥ずかしいほどふたりは仲良しで……。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2635</st>
+				<en>2636</en>
+				<name>クロージング</name>
+			</prgItem>
+		</prgData>
+		<prgData yobi='2'>
+			<prgItem>
+				<st>500</st>
+				<en>530</en>
+				<name></name>
+			</prgItem>
+			<prgItem>
+				<st>530</st>
+				<en>543</en>
+				<name>天気予報</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>543</st>
+				<en>545</en>
+				<name>オープニング</name>
+			</prgItem>
+			<prgItem>
+				<st>545</st>
+				<en>615</en>
+				<name>インフォマーシャル</name>
+				<rate>佐世保発テレビショッピング！特価商品や最新家電、限定アイテムをドンドン紹介します！期待を裏切らない商品が登場します！お楽しみに！（ジャパネットたかた）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>615</st>
+				<en>620</en>
+				<name>メダカのコタロー</name>
+				<rate>ひょうごの自然環境を守ろう！　いなみ野ため池ミュージアム編⑨</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>620</st>
+				<en>650</en>
+				<name>テレビショッピング</name>
+				<rate>▽理想の腹筋を手に（ワンダーコアスマート/オークローン）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>650</st>
+				<en>655</en>
+				<name>コタローとおはよ～！</name>
+				<rate>◇ひょうごの農村環境を守ろう！ぼくたちキラリ輝き応援団</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>655</st>
+				<en>700</en>
+				<name>天気予報</name>
+				<rate>今日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>700</st>
+				<en>730</en>
+				<name>Ｋｉｄｓ劇場　仮面ライダードライブ</name>
+				<rate>彼女を狙う黒い影はだれか◇警視庁の刑事、進ノ介は、怪事件の犯人逮捕のため、そして謎の怪人・ロイミュードと戦うため変身する！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>特撮</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>竹内涼真
+内田理央
+片岡鶴太郎
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>730</st>
+				<en>800</en>
+				<name>魔法騎士レイアース</name>
+				<rate>沈黙の森の創師プレセア◇突然、異世界セフィーロに導かれた３人の少女は魔法騎士として、エメロード姫を救出するために戦いの冒険に旅立つ！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+椎名へきる
+吉田小南美
+笠原弘子
+緒方恵美
+佐々木望
+白鳥由里
+山崎たくみ
+小杉十郎太
+天野由梨
+篠原恵美
+高山みなみ
+置鮎龍太郎
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>800</st>
+				<en>830</en>
+				<name>キンシオ</name>
+				<rate>◇イラストレーターのキン・シオタニが行きたいところへ行き、知りたいことを知る３０分。立川晴の輔の「土地こばなし」も冴えわたるありのままの旅番組！</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>キン・シオタニ（イラストレーター）
+立川晴の輔（落語家）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>830</st>
+				<en>900</en>
+				<name>お茶の間ショッピング</name>
+				<rate>▽効率良く理想のウエストラインへ（スレンダートーン／オークローン）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>900</st>
+				<en>930</en>
+				<name>美美より情報発信</name>
+				<rate>お肌を明るくみせたい！（パーフェクトワン薬用ホワイトニングジェル）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>930</st>
+				<en>1000</en>
+				<name>特撰ＨＯＴ情報</name>
+				<rate>▽快適な睡眠をあなたに（トゥルースリーパープレミアム／オークローン）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1000</st>
+				<en>1030</en>
+				<name>テレビショッピング</name>
+				<rate>▽日常生活をスムーズに！</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1030</st>
+				<en>1100</en>
+				<name>健康情報テレビ</name>
+				<rate>人生の切符（アサヒ緑健）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1100</st>
+				<en>1155</en>
+				<name>ドラマ１１　棚ぼたのあなた</name>
+				<rate>＜字幕スーパー＞◇最強の嫁ヒロインが嫁ぎ先の大家族と繰り広げるロマンティックホームコメディ！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>キム・ナムジュ
+ユ・ジュンサン
+カン・ミンヒョク
+ユン・ユジョン</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ</name>
+					<item>グィナムが「もう誰も傷つけたくないからここで終わりにする」と言うのを聞いたものの、家族に告げるべきか悩むユニ。久しぶりにテレビに出たユンビンは、番組の策略で発言を勝手に編集され、傲慢なヤツだとバッシングされてしまう。誕生日を祝ってもらったことのないイスクのために、店で誕生日会を開くジェヨン。ヤンシルはチョンエの還暦の祝いに、ホテルのレストランで食事会を開く。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1155</st>
+				<en>1200</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1200</st>
+				<en>1257</en>
+				<name>時代劇アワー　暴れん坊将軍Ⅱ</name>
+				<rate>男ひでりの花板修行！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>松平健
+横内正
+有島一郎
+北島三郎
+春川ますみ
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1257</st>
+				<en>1300</en>
+				<name>天気予報</name>
+				<rate>今日の天気（ベルコ）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1300</st>
+				<en>1355</en>
+				<name>韓国ドラマ　宮廷女官チャングムの誓い</name>
+				<rate>&lt;字幕スーパー&gt;女官への道◇不幸な家庭環境に生まれたチャングムが、偉大なるチャングムの称号をもらうまでの波乱の半生を描く！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>イ・ヨンエ
+イム・ヒョンシク
+クム・ボラ
+ほか</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ１</name>
+					<item>貴重な薬草キバナオウギの栽培に成功したチャングムはその功績が認められ、菜園から水剌間（スラッカン）に戻れることに。チョン・ウンベクの使いで書庫へ立ち寄ったチャングムは、ミン・ジョンホと初めて言葉を交わす。
+女官正式採用を決める試験を7日後に控え、懸命に遅れを取り戻そうと勉強するチャングム。試験は2段階に分かれていた。まず、料理名を当てる筆記試験があり、その後実技としてその料理を作る。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ２</name>
+					<item>筆記試験に正解した早い順に、その食材を選ぶことができることになっていた。チャングムが心配なトックは、何とか力になりたいと、古くから女官に伝わる「試験問題を事前に知る儀式」をチャングムに教える。
+試験当日。筆記試験を一番で正解したクミョンは最善の食材を獲得。下ごしらえを済ませ、課題の料理は翌日作ることになった。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ３</name>
+					<item>夜中、ヨンセンと一緒に復習を兼ねて料理場を訪れたチャングムは、自分の食材の一部がなくなっていることに気付く。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1355</st>
+				<en>1400</en>
+				<name>天気予報</name>
+				<rate>今夜の天気（学会の天気）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1400</st>
+				<en>1430</en>
+				<name>北海道・函館とれたて！美味いもの市</name>
+				<rate>梅沢富美男＆根本りつ子（アクセル）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1430</st>
+				<en>1455</en>
+				<name>お買物生活情報</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1455</st>
+				<en>1500</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1500</st>
+				<en>1555</en>
+				<name>ドラマ　はみだし刑事情熱系Ⅲ</name>
+				<rate>２月１７日の恐怖！命を賭けた殺人ゲーム◇スリルあふれる事件展開、涙と笑いの人間ドラマが一体となった現代へのメッセージを発信！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>国内ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>柴田恭兵
+風間トオル
+風吹ジュン
+中山忍
+前田愛
+樹木希林</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1555</st>
+				<en>1600</en>
+				<name>歌のキラ星</name>
+				<rate>『ひめごと』　青木あき</rate>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>歌謡曲・演歌</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1600</st>
+				<en>1630</en>
+				<name>インフォマーシャル</name>
+				<rate>▽日常生活をスムーズに！</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1630</st>
+				<en>1700</en>
+				<name>インフォマーシャル</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1700</st>
+				<en>1745</en>
+				<name>５時に夢中！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1745</st>
+				<en>1750</en>
+				<name>メダカのコタロー</name>
+				<rate>ひょうごの自然環境を守ろう！　農村環境を守る⑤</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1750</st>
+				<en>1800</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1800</st>
+				<en>1830</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1830</st>
+				<en>1900</en>
+				<name>～モテる門には福来たる～モテ福</name>
+				<rate>◇温泉宿を舞台に「女将」と「イケメン支配人」のモテモテトーク！動物リラックストーク！男子禁断トーク炸裂！</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>音楽バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>五十嵐裕美
+滝口幸広
+沢城千春
+蒼井翔太
+ほか</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>▽ミスターギャップ！「白黒アオイちゃん！」
+「デートで遅刻して来た彼女に一言」
+▽タキオ、レイモンド。西やん、シューゴの心の闇が放出！？どす黒いメンズは誰だ！　ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1900</st>
+				<en>2000</en>
+				<name>ウチくる！？</name>
+				<rate>河北麻友子と激戦区の池袋で女子がハマる！絶品ラーメン食べまくり！濃厚明太子つけ麺女性客殺到レモン▽朋ちゃん＆りゅうちぇる爆弾発言▽ＮＹの父からの手紙に涙</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>トークバラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト】
+河北麻友子
+【出演】
+中山秀征
+中川翔子
+</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2000</st>
+				<en>2054</en>
+				<name>火曜時代劇　盤嶽の一生</name>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2054</st>
+				<en>2124</en>
+				<name>ぐっさん家</name>
+				<rate>ぐっさん！春日井市大満喫！Ｊｅｅｐ旅！！</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>山口智充</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2124</st>
+				<en>2126</en>
+				<name>天気予報</name>
+				<rate>明日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2126</st>
+				<en>2130</en>
+				<name>サンぷん！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2130</st>
+				<en>2200</en>
+				<name>ＮＥＷＳ　ＰＯＲＴ</name>
+				<rate>　　◇神戸・ポートアイランドから県内のニュースを発信！！</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>小浜英博
+影谷かおり
+前田勝久（気象予報士）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2200</st>
+				<en>2230</en>
+				<name>アキナ・和牛・アインシュタインのバツウケテイナー</name>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>お笑い・コメディ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2230</st>
+				<en>2300</en>
+				<name>洋楽天国ＰＲＥＭＩＵＭ　Ｒ４５　追悼プリンス特集①</name>
+				<rate>◇５７歳という若さでこの世を去ったプリンスことプリンス・ロジャーズ・ネルソン。世界中のファンを魅了してきたプリンスを追悼し、選りすぐりの楽曲をお届けします。</rate>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>海外ロック・ポップス</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>番組内容</name>
+					<item>追悼特集①７０年代から８０年代まで　◇ポップ・ミュージック界のアイコン、プリンスが４月２１日、５７歳で死去した。３５年以上に及ぶキャリアの中で３９枚のオリジナル・アルバムをリリースし、グラミー賞を７度受賞。世代を超えた世界中のファンを魅惑してきたプリンスを追悼して、選りすぐりの楽曲を送る！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2300</st>
+				<en>2330</en>
+				<name>原田伸郎のめざせパーゴルフⅢ</name>
+				<rate>◇原田伸郎と全米シニアプロチャンピオンの井戸木鴻樹プロが多彩なゲストを迎えて番組独自のルールによるポイント獲得によるチーム対戦！楽しいトークとハラ＆ドキ！プレー</rate>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>ゴルフ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト】
+倉本昌弘プロ
+松木安太郎
+【出演】
+原田伸郎
+井戸木鴻樹
+徳原恵梨</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>ショートホールで大波乱！倉本プロも苦戦！？◇タレント原田伸郎と全米プロシニアチャンピオンの井戸木鴻樹プロが多彩なゲストを迎え、伸郎チームと井戸木プロチームに分かれてのチーム対戦で勝負！番組独自のルールによって、より多くのポイントを獲得したチームが勝利！今回の戦いの舞台は、奈良県天理市にあります春日台カントリークラブ。今年開場５５年目を迎えるメンバーシップコース。</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>標高５００メートルの高原にあり、夏でも市街地より約５度は涼しく快適にプレーが楽しめる。今回伸郎チームのゲストはツアー３０勝、現在日本プロゴルフ協会会長の倉本昌弘プロ、そして井戸木プロチームのゲストは、今回８回目の出演となる松木安太郎さん。今週は４週にわたる戦いの３週目。果たして勝つのはどっちのチーム！？楽しいトークとハラハラ！ドキドキ！のプレーをぜひご覧ください。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2330</st>
+				<en>2400</en>
+				<name>森脇伝説</name>
+				<rate>兵庫県西宮はしご酒！　森脇健児◇走る男から歩く男へ！地元京阪神を舞台に未知なる伝説を探る！愛すべき街、愛すべき人々と筋書き無しのドラマを求めて！</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>森脇健児
+みわゆうすけ</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>森脇健児が、あの手この手で街と向き合う一生懸命バラエティー。今宵は大好評！“居酒屋はしご王”みわゆうすけと行くはしご酒！兵庫県西宮市にやってきました。ＪＲでもなく阪急でもなく、今回はあえて阪神西宮駅！テーマは、“通の、少し上行くはしご酒”。まず１軒目は、小さいと侮ることなかれ！の、ザ・居酒屋！</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容2</name>
+					<item>そして２軒目は、若者たちの社交場で関西の名物を食す！３軒目はユーモアたっぷり、“ミスター阪神西宮”の店。最後はおしどり夫婦の店を訪れ、豚ホルモンで乾杯！福男で有名な「えべっさん」西宮神社ならではの幸運の街で、通の少し上行くはしご酒を、どうぞお楽しみに！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2400</st>
+				<en>2430</en>
+				<name>美少女戦士セーラームーンＣｒｙｓｔａｌ　ＳｅａｓｏｎⅢ</name>
+				<rate>◇セーラー戦士と、謎の組織、デス・バスターズとの戦いを描く！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+三石琴乃
+金元寿子
+佐藤利奈
+小清水亜美
+伊藤静
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2430</st>
+				<en>2500</en>
+				<name>ハイスクール・フリート</name>
+				<rate>◇海に生き、海を守りて、海を往くー。それがブルーマーメイド！海の安全を守る職業に憧れる女生徒たちの明るい学校生活を描く！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+夏川椎菜
+Ｌｙｎｎ
+雨宮天
+古木のぞみ
+澤田美晴
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2500</st>
+				<en>2530</en>
+				<name>テレビショッピング</name>
+				<rate>▽生ジュースで健康を！（パワージューサースマート）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2530</st>
+				<en>2600</en>
+				<name>週刊　バイクＴＶ</name>
+				<rate>藤原明子のひとりで　できるもーん特別編◇バイク好きによる、バイク好きのための本格バイク番組</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>車・オートバイ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+末飛登(まひと)
+藤原明子</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>４月３０日に、袖ケ浦フォレストレースウェイで行われたＲ２５・Ｒ３オーナー　サーキット走行会の模様を藤原明子のレポート企画を中心にお送りします。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2600</st>
+				<en>2630</en>
+				<name>アイドルぷるルン！トラベラー</name>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2630</st>
+				<en>2635</en>
+				<name>薄桜鬼‐御伽草子‐</name>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2635</st>
+				<en>2636</en>
+				<name>クロージング</name>
+			</prgItem>
+		</prgData>
+		<prgData yobi='3'>
+			<prgItem>
+				<st>500</st>
+				<en>530</en>
+				<name></name>
+			</prgItem>
+			<prgItem>
+				<st>530</st>
+				<en>543</en>
+				<name>天気予報</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>543</st>
+				<en>545</en>
+				<name>オープニング</name>
+			</prgItem>
+			<prgItem>
+				<st>545</st>
+				<en>615</en>
+				<name>インフォマーシャル</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>615</st>
+				<en>620</en>
+				<name>メダカのコタロー</name>
+				<rate>ひょうごの自然環境を守ろう！　いなみ野ため池ミュージアム編⑩</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>620</st>
+				<en>650</en>
+				<name>テレビショッピング</name>
+				<rate>▽中高年の目の健康に！（えんきん）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>650</st>
+				<en>655</en>
+				<name>コタローとおはよ～！</name>
+				<rate>◇ひょうごの農村環境を守ろう！ぼくたちキラリ輝き応援団</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>655</st>
+				<en>700</en>
+				<name>天気予報</name>
+				<rate>今日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>700</st>
+				<en>730</en>
+				<name>Ｋｉｄｓ劇場　仮面ライダードライブ</name>
+				<rate>その想いが届くのはいつか◇警視庁の刑事、進ノ介は、怪事件の犯人逮捕のため、そして謎の怪人・ロイミュードと戦うため変身する！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>特撮</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>竹内涼真
+内田理央
+片岡鶴太郎
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>730</st>
+				<en>800</en>
+				<name>魔法騎士レイアース</name>
+				<rate>謎の美少年剣士フェリオ◇突然、異世界セフィーロに導かれた３人の少女は魔法騎士として、エメロード姫を救出するために戦いの冒険に旅立つ！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+椎名へきる
+吉田小南美
+笠原弘子
+緒方恵美
+佐々木望
+白鳥由里
+山崎たくみ
+小杉十郎太
+天野由梨
+篠原恵美
+高山みなみ
+置鮎龍太郎
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>800</st>
+				<en>830</en>
+				<name>手づくり花づくり</name>
+				<icon>[再]</icon>
+				<rate>環境に合った苔を育てよう◇初心者向け園芸ノウハウからガーデニングに関するあらゆる最新情報まで、春夏秋冬・潤いを与えるグリーンライフをお届けします</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>園芸・ペット・手芸</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>野里元哉（陽春園）
+【司会・進行】
+高田薫</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>830</st>
+				<en>900</en>
+				<name>お茶の間ショッピング</name>
+				<rate>毎日のお手入れにプラス!（プラセンタエキス原液＆つぶ）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>900</st>
+				<en>930</en>
+				<name>テレビショッピング</name>
+				<rate>肩や腰の痛みの悩みに（リョウシンJV錠）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>930</st>
+				<en>1000</en>
+				<name>健康情報テレビ</name>
+				<rate>健やか元気人（アサヒ緑健）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1000</st>
+				<en>1030</en>
+				<name>ショッピングセレクト</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1030</st>
+				<en>1100</en>
+				<name>わくわくビューティー</name>
+				<rate>スムーズに歩きたい！（ロコアタック）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1100</st>
+				<en>1155</en>
+				<name>ドラマ１１　棚ぼたのあなた</name>
+				<rate>＜字幕スーパー＞◇最強の嫁ヒロインが嫁ぎ先の大家族と繰り広げるロマンティックホームコメディ！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>キム・ナムジュ
+ユ・ジュンサン
+カン・ミンヒョク
+ユン・ユジョン</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ</name>
+					<item>チョンエの誕生祝いの会で、初めて自分たちが姻戚だと知ったセグァンとマルスクは、とっさに初対面のふりをしてしまう。会の最中に自分の罪が暴かれたらと動揺するヤンシルをジョンフンは密かにたしなめていた。一方、ユンビンの汚名を返上したいイルスクは、編集前のインタビュー映像をどう利用すればいいか、ユニに相談する。ジェヨンはイスクとの映画館デートに成功するが…。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1155</st>
+				<en>1200</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1200</st>
+				<en>1257</en>
+				<name>時代劇アワー　暴れん坊将軍Ⅱ</name>
+				<rate>いま、ひと夏のいのち唄！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>松平健
+横内正
+有島一郎
+北島三郎
+春川ますみ
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1257</st>
+				<en>1300</en>
+				<name>天気予報</name>
+				<rate>今日の天気（ベルコ）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1300</st>
+				<en>1355</en>
+				<name>韓国ドラマ　宮廷女官チャングムの誓い</name>
+				<rate>&lt;字幕スーパー&gt;最初の料理◇不幸な家庭環境に生まれたチャングムが、偉大なるチャングムの称号をもらうまでの波乱の半生を描く！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>イ・ヨンエ
+イム・ヒョンシク
+クム・ボラ
+ほか</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ１</name>
+					<item>女官正式採用をかけた料理試験の結果、首席はクミョン、支給されたもの以外の食材を使ったチャングムは落第を言い渡された。そこへ試験の見学に皇太后が現われる。チャングムの料理を味見した皇太后は、その味だけでなく、代用の材料を選び出した機転と知識に感心し、チャングムの落第を取り消させる。晴れて女官となるチャングムに、ハン尚宮（サングン）はお祝いとしてあるものをプレゼント。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ２</name>
+					<item>トックの妻は里帰りしたチャングムに「母代わり」として訓示。チャングムは母の墓参りを済ませ、宮廷に戻り女官としての生活を始める。
+その頃、追っていた女密偵が捕らえられチョンホが聴取。女密偵から、自分の怪我の手当てをした女性が錦鶏を持っていたことを聞き出したチョンホは、錦鶏を手がかりに、自分の命の恩人を見つけようとする。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ３</name>
+					<item>王の狩りに同行し、野営の水剌間（スラッカン）で食事を作ることになったチャングムたち。しかし味見をしたハン尚宮（サングン）らが倒れてしまう。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1355</st>
+				<en>1400</en>
+				<name>天気予報</name>
+				<rate>今夜の天気（学会の天気）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1400</st>
+				<en>1430</en>
+				<name>インフォマーシャル</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1430</st>
+				<en>1455</en>
+				<name>お買物生活情報</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1455</st>
+				<en>1500</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1500</st>
+				<en>1555</en>
+				<name>ドラマ　はみだし刑事情熱系Ⅲ</name>
+				<rate>涙の千羽鶴！愛憎殺人・黄色タオルの謎◇スリルあふれる事件展開、涙と笑いの人間ドラマが一体となった現代へのメッセージを発信！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>国内ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>柴田恭兵
+風間トオル
+風吹ジュン
+中山忍
+前田愛
+樹木希林</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1555</st>
+				<en>1600</en>
+				<name>インフォマーシャル</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1600</st>
+				<en>1630</en>
+				<name>インフォマーシャル</name>
+				<rate>▽元気で若々しい毎日を!（緑の習慣）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1630</st>
+				<en>1700</en>
+				<name>インフォマーシャル</name>
+				<rate>新発想！スキンケア（ラメラエッセンス）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1700</st>
+				<en>1745</en>
+				<name>５時に夢中！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1745</st>
+				<en>1750</en>
+				<name>メダカのコタロー</name>
+				<rate>ひょうごの自然環境を守ろう！　「里山　前篇」</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1750</st>
+				<en>1800</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1800</st>
+				<en>1830</en>
+				<name>ガイコクジンが行く！北国トラベラーズ</name>
+				<rate>極上！宝探しツアーｉｎ岩手◇東北・北海道を外国人たちが旅をして新たな魅力を再発見！</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>キム、オクサーナ
+ヨン
+江口アミ(ＴＶＩアナウンサー)　
+【ナビゲーター】
+サンドウィッチマン</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>韓国、ロシア、アイスランド出身の３人のガイコクジンが、岩手の面白スポットをトラベル！テーマは「極上！宝探しツアーin岩手」。まずは岩手を代表するお宝観光スポット「小岩井農場」で、映画の撮影にも使われたという美しい森へ。一般公開していないエリアの「お宝ツアー」を満喫！盛岡手づくり村では、「ジャパンブルー」の藍染めにチャレンジ。</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>オクサーナさんの、桜の花びらをデザインした女性らしい見事な藍染めに一同歓声！冷麺の厨房で手作りの冷麺を食べるキム君は、なぜにスイカから？久慈のお宝「琥珀」の採掘体験では、オクサーナさんとキム君が大物を掘り当てたのに、ヨン君1人が納得いく結果が出せず…あきらめられない男ヨン君は、終了時間になってもまだお宝に未練！？一戸町の御所野縄文遺跡は、世界遺産登録を目指す岩手の宝。</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容３</name>
+					<item>ここで3人は火を起こし縄文土器でクッキング。煙にまかれながら調理をしたキム君は、豚汁を食べて一言「煙の味がしておいしいです！」岩手大学の留学生、仲良し３人組が繰り広げる、ほのぼのとした岩手の旅。岩手の人たちのあったかい人柄にも触れる「極上！宝探しツアーin岩手」です。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1830</st>
+				<en>1900</en>
+				<name>ちょっと　タビ好キ</name>
+				<rate>佐賀・佐賀市～家族でほっこり！旅情報バラエティ～◇旅手形に記されたキ－ワードを頼りに九州各地ほかをめぐりその土地ならではの風土、歴史、人々とのふれあい旅</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>歴史・紀行</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>前川清
+えとう窓口(Wエンジン)</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>今回は商人の町として栄えた佐賀県佐賀市呉服元町周辺のタビ。佐賀市は約８２０体の恵比寿様に見守られ、町の至る所に像が祀られている。そんな町でまず出会ったのは、古い商店街に毎日集まる４人組のおばあちゃん。皆さん独り身で井戸端会議の真っ最中だということで、そこでいつもの前川節が炸裂！？</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>続いて出会ったのは美容専門学校に通うたくさんの若い生徒たち。若人たちの熱い夢に、ご両人が感激する場面も・・・。笑う福の神に守られた町で、たくさんの笑顔に出会いほっこりするタビとなった。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1900</st>
+				<en>1954</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1954</st>
+				<en>2047</en>
+				<name>水曜時代劇　同心暁蘭之介</name>
+				<rate>恐怖の町◇北町奉行所・回り方同心・暁蘭之介は悪に対する激しい怒りの持ち主。その蘭之介が毎回、様々な事件を捜査し、謎解いていく捕物帖。</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>杉良太郎
+伊東四朗
+赤塚真人
+加納竜
+根上淳　
+田口計</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ</name>
+					<item>米問屋・信濃屋の主が、暴れ馬に引きずられて死亡するという事件が起きた。そして信濃屋は、たった一晩で人手に渡ってしまう。さらに、信濃屋の隣の河田屋の様子もおかしい。暁蘭之介（杉良太郎）は河田屋に起こっていることを探ろうとしたが、主は頑として、口を割らなかった。それどころか、蘭之介に事実を告げようとしたお内儀が、自害に見せかけて殺害される。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ２</name>
+					<item>やはり、背後にはかなりの大物がいると見て良さそうだ。やがて、鏑木（青木義朗）と新しく鏑木の配下に入った下っ引き・朝吉（加納竜）の働きで、信濃屋と河田屋を手に入れたのが博徒の六本松（田口計）だと判明する。さらに朝吉によれば、次に狙われるのは上総屋らしい。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ３</name>
+					<item>その推測通り、六本松はすでに上総屋に手を伸ばしていたが、上総屋は命を張って、これを最後に問屋の乗っ取りをやめるよう、六本松に交渉を試みる。しかし卑劣にも、六本松は上総屋のひとり娘・おゆう（森田理恵）を狙った</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2047</st>
+				<en>2117</en>
+				<name>鉄道ひとり旅</name>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>宇宙・科学・医学</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2117</st>
+				<en>2124</en>
+				<name>サウンドコンポ</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>国内ロック・ポップス</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2124</st>
+				<en>2126</en>
+				<name>天気予報</name>
+				<rate>明日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2126</st>
+				<en>2130</en>
+				<name>サンぷん！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2130</st>
+				<en>2200</en>
+				<name>ＮＥＷＳ　ＰＯＲＴ</name>
+				<rate>　　◇神戸・ポートアイランドから県内のニュースを発信！！</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>小浜英博
+影谷かおり
+前田勝久（気象予報士）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2200</st>
+				<en>2230</en>
+				<name>Ｔｈｅ　Ｈｉｔ</name>
+				<rate>ボコボコ入れ喰い！ボイルで今日イチ！上笹慎哉</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【アングラー】
+上笹慎哉
+【司会】
+磯部公彦
+【アシスタント】
+前田由紀子
+【解説】
+福本文幸
+【リポーター】
+和多田藍</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>～バスを中心にルアー＆フライの楽しさを伝えるゲーム・フィッシング情報専門番組、毎回トップレベルのバスプロが登場し高度なテクニックを披露</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>▽ 今週はリポーターの和多田藍が上笹慎哉さんと、奈良・風屋ダムを釣行する。▽ スタートからトップで小バスが順調にヒット。午前中は数釣りを堪能し、午後からは少しレンジを下げることに。▽ すると一時入れ喰い状態になり風屋ダムはパラダイスと化す。アイが何気に今日イチのバスをヒットすれば、上笹さんも負けじとボイルで今日イチを更新。大満足の結果となる。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2230</st>
+				<en>2300</en>
+				<name>LURE×LURE CHANNEL　ルアルアチャンネル</name>
+				<rate>宮川靖さんとブンブンシーバスチャレンジ◇初心者、経験者問わず楽しめるソルトルアーフィッシング。手軽さや魚の“引き”の醍醐味をベテランアングラーがわかりやすく解説</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト】
+宮川靖
+つり具のブンブンのみなさん
+【リポーター】
+ペルビー貴子
+【ナレーション】
+長代聡之助</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>ルアー釣りを手軽に、楽しく、そしてよく釣れる、ためになる本格ソルトルアーフィッシング番組「ルアルアチャンネル」▽ルアーフィッシングの人気ジャンルのシーバス。今回はブロビスの宮川靖さんをゲストにつり具のブンブンのみなさんと阪神間でシーバスにチャレンジです▽宮川靖さんは、つり具のブンブンスタッフで番組にも何度か登場の宮川朗さんとは実は兄弟！だからこそ実現した夢の宮川ブラザース共演！</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>▽まだ番組レポーターでは釣れていないキャスティングでのシーバス。今回遂にペルビー貴子が釣り上げる！▽プロの本格的なテクニックから、釣り初心者へのHowToまで、釣りファンオールレンジ対応のルアー番組「ルアルアチャンネル」。乞うご期待ですっ！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2300</st>
+				<en>2330</en>
+				<name>中西清起・小林佳則の熱血！！ゴルフ塾！</name>
+				<rate>◇５月末に放送400回を迎えたアマチュア参加型ゴルフ番組。前阪神タイガース投手コーチの中西清起氏が新たにＭＣとして加わり、さらにパワーアップ！</rate>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>ゴルフ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【メインパーソナリティー】
+小林佳則プロ
+中西清起
+【司会】
+酒井連子</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>中西清起ショット炸裂！運命のロングホール！◇今月から小林プロ、中西清起さんのメインパーソナリティー２人にそれぞれアマチュアゲストがチームを組み対戦！プロチームに対しての中西チームのハンディキャップは、ショートホールでの１ストロークマイナスのみ！阪神タイガース投手コーチを退任した中西清さんの実力が問われる戦いに！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2330</st>
+				<en>2400</en>
+				<name>肉食女子部</name>
+				<icon>[再]</icon>
+				<rate>新人種Ｆｉｌｅ　Ｎｏ．８　週に１度家に帰らない女◇｢肉食女子部｣とは、芸能界トップクラスのアイドルが焼肉を食べながらガールズトークする部活です。</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>トークバラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト】
+かとうちあき（野宿愛好家　「野宿野郎」編集長）
+【出演者】
+川村ゆきえ
+今野杏南
+岸明日香</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>今回の新人種は、ミニコミ誌「野宿野郎」編集長、かとうちあきさん。野宿愛好歴20年、週に一度は野宿を実践するというかとうさんが、野宿の醍醐味や快適に眠るための“三種の神器”について語ります。はたして肉食女子部員に、野宿の魅力は伝わるのか?!　お楽しみに！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2400</st>
+				<en>2430</en>
+				<name>ニンジャスレイヤーフロムアニメイシヨン</name>
+				<rate>◇ニンジャ抗争で妻子を殺されたフジキド・ケンジ。ニンジャを殺す者となり、復讐の戦いに身を投じる！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+森川智之
+速水奨
+斎藤千和
+雨宮天
+種田梨沙
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2430</st>
+				<en>2500</en>
+				<name>温泉女子</name>
+				<icon>[再]</icon>
+				<rate>秩父路で過ごす極上の休日…長瀞でひんやり爽快！涼しさに出会う旅◇週末にエステやジムに行く感覚で温泉地に行ければ最高！行きたい時に行ける1泊2日の気軽な温泉旅を紹介</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+松本さやか
+上住マリア</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2500</st>
+				<en>2530</en>
+				<name>バキバキ☆ビート！</name>
+				<rate>◇音楽を愛する現役のDJ達がクラブ・ダンスミュージックを中心に幅広いジャンルの音楽の魅力を紹介、エッジの効いた音楽情報番組</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>音楽バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>スマイル(瀬戸洋祐・ウーイェイよしたか)
+DJ KELLY(ギャロップ毛利）
+DJ けんじ(モンスターエンジン大林）
+DJ 黒髪のリリー
+DJ KO-TARO
+</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2530</st>
+				<en>2600</en>
+				<name>文豪ストレイドッグス</name>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2600</st>
+				<en>2601</en>
+				<name>クロージング</name>
+			</prgItem>
+		</prgData>
+		<prgData yobi='4'>
+			<prgItem>
+				<st>500</st>
+				<en>530</en>
+				<name></name>
+			</prgItem>
+			<prgItem>
+				<st>530</st>
+				<en>543</en>
+				<name>天気予報</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>543</st>
+				<en>545</en>
+				<name>オープニング</name>
+			</prgItem>
+			<prgItem>
+				<st>545</st>
+				<en>615</en>
+				<name>インフォマーシャル</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>615</st>
+				<en>620</en>
+				<name>メダカのコタロー</name>
+				<rate>ひょうごの自然環境を守ろう！　いなみ野ため池ミュージアム編①</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>620</st>
+				<en>650</en>
+				<name>テレビショッピング</name>
+				<rate>佐世保発テレビショッピング！特価商品や最新家電、限定アイテムをドンドン紹介します！期待を裏切らない商品が登場します！お楽しみに！（ジャパネットたかた）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>650</st>
+				<en>655</en>
+				<name>コタローとおはよ～！</name>
+				<rate>◇ひょうごの農村環境を守ろう！ぼくたちキラリ輝き応援団</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>655</st>
+				<en>700</en>
+				<name>天気予報</name>
+				<rate>今日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>700</st>
+				<en>730</en>
+				<name>Ｋｉｄｓ劇場　仮面ライダードライブ</name>
+				<rate>沢神りんなはなぜソワソワしていたのか◇警視庁の刑事、進ノ介は、怪事件の犯人逮捕のため、そして謎の怪人・ロイミュードと戦うため変身する！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>特撮</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>竹内涼真
+内田理央
+片岡鶴太郎
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>730</st>
+				<en>800</en>
+				<name>魔法騎士レイアース</name>
+				<rate>執念の魔操士アルシオーネ◇突然、異世界セフィーロに導かれた３人の少女は魔法騎士として、エメロード姫を救出するために戦いの冒険に旅立つ！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+椎名へきる
+吉田小南美
+笠原弘子
+緒方恵美
+佐々木望
+白鳥由里
+山崎たくみ
+小杉十郎太
+天野由梨
+篠原恵美
+高山みなみ
+置鮎龍太郎
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>800</st>
+				<en>830</en>
+				<name>Ｔｈｅ　Ｈｉｔ</name>
+				<icon>[再]</icon>
+				<rate>ボコボコ入れ喰い！ボイルで今日イチ！上笹慎哉</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【アングラー】
+上笹慎哉
+【司会】
+磯部公彦
+【アシスタント】
+前田由紀子
+【解説】
+福本文幸
+【リポーター】
+和多田藍</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>830</st>
+				<en>900</en>
+				<name>お茶の間ショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>900</st>
+				<en>930</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>930</st>
+				<en>1000</en>
+				<name>健康情報テレビ</name>
+				<rate>健やか元気人（アサヒ緑健）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1000</st>
+				<en>1030</en>
+				<name>テレビショッピング</name>
+				<rate>健康のため体操を!（カーブス健康体操教室）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1030</st>
+				<en>1100</en>
+				<name>テレビショッピング</name>
+				<rate>お肌の悩みをカバー（シルキーカバー）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1100</st>
+				<en>1155</en>
+				<name>ドラマ１１　棚ぼたのあなた</name>
+				<rate>＜字幕スーパー＞◇最強の嫁ヒロインが嫁ぎ先の大家族と繰り広げるロマンティックホームコメディ！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>キム・ナムジュ
+ユ・ジュンサン
+カン・ミンヒョク
+ユン・ユジョン</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ</name>
+					<item>グィナムからヤンシルの罪を聞き出したジャンスは、深夜にもかかわらず会いに行き真偽を問いただすが、開き直ったジョンフンに失望して兄弟の縁を切ることに。翌日、プレゼントで１週間の休暇をもらったチョンエは、ボエ、スネと一緒に旅行に出かけ、海の見えるホテルで贅沢な時間を過ごす。その頃イルスクはユンビンへの謝罪会見を開くように、番組のプロデューサーにかけあっていた。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1155</st>
+				<en>1200</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1200</st>
+				<en>1257</en>
+				<name>時代劇アワー　暴れん坊将軍Ⅱ</name>
+				<rate>さらば、百人力の片想い！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>松平健
+横内正
+有島一郎
+北島三郎
+春川ますみ
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1257</st>
+				<en>1300</en>
+				<name>天気予報</name>
+				<rate>今日の天気（ベルコ）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1300</st>
+				<en>1355</en>
+				<name>韓国ドラマ　宮廷女官チャングムの誓い</name>
+				<rate>&lt;字幕スーパー&gt;呪（のろ）いの札◇不幸な家庭環境に生まれたチャングムが、偉大なるチャングムの称号をもらうまでの波乱の半生を描く！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>イ・ヨンエ
+イム・ヒョンシク
+クム・ボラ
+ほか</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ１</name>
+					<item>王はクミョンとチャングムの作った冷麺に満足し、王の護衛部隊として同行していたチョンホも二人の活躍を知る。チョンホはチャングムに声を掛け、クミョンは自分の憧れの人チョンホとチャングムが旧知であることを知る。
+食材の管理を怠った罰として退膳間（テソンカン）への出入りを禁じられたミン尚宮（サングン）らに代わり、チャングムが退膳間（テソンカン）の手伝いをすることに。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ２</name>
+					<item>退膳間（テソンカン）のどこかに母の料理日誌が隠されているとあって、チャングムは浮き足立つ。何かと口実を作っては退膳間（テソンカン）に出入りするチャングムの様子を怪しむヨンセン。
+一方その頃、チェ一族はある陰謀に加担していた。チェ尚宮（サングン）はクミョンにその実行を命じる。懐妊している妃のお腹の子供を女の子に変える呪いの札を退膳間（テソンカン）に隠すのがその役目だった。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ３</name>
+					<item>ところがクミョンが隠したはずの呪いの札が明るみに出、チョン最高尚宮（チェゴサングン）が調査を開始、夜中に退膳間に出入りしていたチャングムに、その容疑がかかる。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1355</st>
+				<en>1400</en>
+				<name>天気予報</name>
+				<rate>今夜の天気（学会の天気）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1400</st>
+				<en>1430</en>
+				<name>お値打ちテレビ</name>
+				<rate>▽日常生活をスムーズに！</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1430</st>
+				<en>1455</en>
+				<name>お買物生活情報</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1455</st>
+				<en>1500</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1500</st>
+				<en>1555</en>
+				<name>ドラマ　はみだし刑事情熱系Ⅲ</name>
+				<rate>恐怖のストーカー殺人！声なき少女の涙◇スリルあふれる事件展開、涙と笑いの人間ドラマが一体となった現代へのメッセージを発信！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>国内ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>柴田恭兵
+風間トオル
+風吹ジュン
+中山忍
+前田愛
+樹木希林</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1555</st>
+				<en>1600</en>
+				<name>歌のキラ星</name>
+				<rate>（懐メロ編）『高原列車は行く』　岸本敬之</rate>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>歌謡曲・演歌</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1600</st>
+				<en>1655</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1655</st>
+				<en>1700</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1700</st>
+				<en>1745</en>
+				<name>５時に夢中！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1745</st>
+				<en>1750</en>
+				<name>メダカのコタロー</name>
+				<rate>ひょうごの自然環境を守ろう！　「里山　後篇」</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1750</st>
+				<en>1800</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1800</st>
+				<en>1830</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1830</st>
+				<en>1900</en>
+				<name>ＭＵＳＩＣ　Ｂ．Ｂ．</name>
+				<rate>進行アーティスト：ＳＨＩＭＡ</rate>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>国内ロック・ポップス</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>ＳＨＩＭＡ（シマ）
+東京スカパラダイスオーケストラ　ｆｅａｔ．　Ｋｅｎ　Ｙｏｋｏｙａｍａ
+前田敦子
+塩ノ谷早耶香
+バンドごっこ
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1900</st>
+				<en>2049</en>
+				<name>シネマスタジアム「パフューム　ある人殺しの物語」</name>
+				<rate>ＰＥＲＦＵＭＥ ： ＴＨＥ ＳＴＯＲＹ ＯＦ Ａ ＭＵＲＤＥＲＥＲ
+監督：トム・ティクヴァ
+２００６年
+ドイツ</rate>
+				<content_nibble>
+					<level_1>映画</level_1>
+					<level_2>洋画</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>原題</name>
+					<item>ＰＥＲＦＵＭＥ ： ＴＨＥ ＳＴＯＲＹ ＯＦ Ａ ＭＵＲＤＥＲＥＲ</item>
+				</extended_event>
+				<extended_event>
+					<name>制作年</name>
+					<item>2006</item>
+				</extended_event>
+				<extended_event>
+					<name>制作国</name>
+					<item>ドイツ</item>
+				</extended_event>
+				<extended_event>
+					<name>監督</name>
+					<item>トム・ティクヴァ</item>
+				</extended_event>
+				<extended_event>
+					<name>出演者</name>
+					<item>ベン・ウィショー
+ダスティン・ホフマン
+アラン・リックマン
+レイチェル・ハード＝ウッド</item>
+				</extended_event>
+				<extended_event>
+					<name>解説１</name>
+					<item>１８世紀のパリ、悪臭たちこめる魚市場でー人の赤ん坊が産み落とされる。捨てられかけた赤ん坊は間―髪で拾われ、グルヌイユと名付けられる。グルヌイユは孤独な子供だったが、何キロも先の匂いを嗅ぎ分ける超人的な能力の持ち主だった。青年となったグルヌイユは、赤毛の少女の運命の香りと出会う。彼は悲鳴を上げようとした少女を誤って殺してしまう。以来、彼は少女の香りを再現する事に執着するのだったが‥･。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2049</st>
+				<en>2054</en>
+				<name>ＪＥＦＦ＠ＫＹＯＴＯ　おもてなし京都案内</name>
+				<rate>錦市場　天ぷら＆串刺し身　◇世界から観光で来られた皆さんのため、あるいは京都の留学生・在日外国人のための京都番組。あえて英語をメインにした京都ガイド番組</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>会話・語学</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>ジェフ・バーグランド</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2054</st>
+				<en>2124</en>
+				<name>とちぎ発！旅好き！</name>
+				<rate>わたらせ渓谷鐵道の旅。手島優が大間々駅から足尾駅まで、新緑を満喫しながら、温泉や食事が楽しめる駅、またオススメのスポットなどを紹介する。</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>手島優</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2124</st>
+				<en>2126</en>
+				<name>天気予報</name>
+				<rate>明日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2126</st>
+				<en>2130</en>
+				<name>サンぷん！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2130</st>
+				<en>2200</en>
+				<name>ＮＥＷＳ　ＰＯＲＴ</name>
+				<rate>　　◇神戸・ポートアイランドから県内のニュースを発信！！</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>小浜英博
+影谷かおり
+前田勝久（気象予報士）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2200</st>
+				<en>2255</en>
+				<name>ビッグ・フィッシング</name>
+				<rate>解禁直後の京都美山川で安田明彦さんがアユの友釣り教室▽かなきちカラーアート魚拓にチャレンジ！</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト解説】
+安田明彦
+【司会】
+オール阪神
+【アシスタント】
+門脇佳奈子
+【釣り場情報】
+涼宮菜月</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>今週は、各地で解禁の相次ぐ「アユ釣り」を、安田明彦さんが紹介します。チャレンジコーナーは、門脇佳奈子がアート魚拓に挑戦。最新釣りグッズ情報や、週末釣り場情報もお楽しみに。▽安田明彦さんが京都府美山川で、６月４日に解禁されたアユの友釣りを紹介します。天然オトリアユの選び方や仕掛け、道具の紹介はもちろん、アユの習性を元に、釣り方を詳しく解説します。根強い人気のアユ友釣りの面白さを堪能してください。</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>▽門脇佳奈子が、「アート魚拓游水（ゆうすい）」の谷口岬人代表の指導で、カラー魚拓に挑戦します。専用の絵具、専用の紙の説明から、色の作り方、色の配分、グラデーションのつけ方など、カラー魚拓の基礎を学びます。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2255</st>
+				<en>2300</en>
+				<name>はりまエンジョイマップ</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2300</st>
+				<en>2330</en>
+				<name>真弓＆勝成のＥｘｐｅｒｔ　ＧＯＬＦ</name>
+				<rate>池越えで距離もあるバンカー◇輝かしい実績を持つ高橋勝成プロがアマトップレベルの真弓明信に持てる技を伝授、効果的レッスンで更なるレベルアップを目指す</rate>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>ゴルフ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト】
+大畑大介
+【出演】
+真弓明信
+高橋勝成プロ
+嵐みずえ（アシスタント）</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>今回の舞台は「一度は訪れたい日本の絶景コース」にも選ばれたほどの素晴らしい景観美と高い戦略性を兼ね備え、ゴルフ本来の楽しみである“くつろぎ”と“爽快感”を十二分に味わえる、かさぎゴルフ倶楽部。ゲストは、日本が誇る世界のトライ王、ラグビー元日本代表・大畑大介。今週のラウンドレッスンは11番361ヤードのパー4。グリーン手前に大きな池と、その手前にもバンカーがあるため、</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>ティーショットでは距離をセーブして、良いポジションに置かなければならないホールです。高い身体能力と超一級の感性で、ゴルフ経験の少なさをカバーする大畑大介に、近頃ますます死角なしの真弓明信のプレー。そして高橋勝成プロのサポートぶりも必見です。ラウンドを通して学び、レッスンコーナーでさらに学んで、出演者と共に視聴者の技量も向上すること必至！必見のシリーズです！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2330</st>
+				<en>2340</en>
+				<name>Ｖｉｎｔａｇｅ倶楽部</name>
+				<rate>◇イキな大人時間を、イカした音楽で愉しむ！歌謡・情報バラエティ！</rate>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>歌謡曲・演歌</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>瀬戸つよし
+金山ゆい</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2340</st>
+				<en>2345</en>
+				<name>ふらぶらやろうＺ</name>
+				<rate>お茶は日本のこころ！～ふらりふらり歩きましょう～◇男２人で泉州地域にスポットをあて、トークしながらディープな部分を歩いて行くフリートークドラマ！？</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>メイ・イズモト
+木村ひさし</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2345</st>
+				<en>2400</en>
+				<name>ＢＵＬＬ　ＲＯＣＫ．ＴＶ</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>国内ロック・ポップス</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2400</st>
+				<en>2430</en>
+				<name>ももクロＣｈａｎ</name>
+				<rate>ぶらり高城れに完結編！マグロの街でとどめの食いだおれ？▽インパクト大のマグロ絶品料理にれにと詩織ア然▽男祭り2015in大宰府メイキング未公開映像を独占入手?</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>音楽バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>ももいろクローバーＺ
+百田夏菜子
+玉井詩織
+佐々木彩夏
+有安杏果
+高城れに
+</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>　◇人気沸騰！ももいろクローバーＺに完全密着。全力ＬＩＶＥの裏表はもちろん、格好良くて可愛い５人のメンバーのキャラクターを知ることが出来るオリジナル企画も！</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>ももクロのすべてを知ることが出来るプログラム
+ドキュメントからオリジナルバラエティ企画まで、ももいろクローバーＺ・メンバー５人の素顔が満載！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2430</st>
+				<en>2500</en>
+				<name>クロムクロ</name>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2500</st>
+				<en>2530</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2530</st>
+				<en>2600</en>
+				<name>あんハピ♪</name>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2600</st>
+				<en>2630</en>
+				<name>ネトゲの嫁は女の子じゃないと思った？</name>
+				<rate>　◇ネトゲの女キャラに告白された少年。出会ってみると美少女だけど残念で危険な女の子だった！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2630</st>
+				<en>2631</en>
+				<name>クロージング</name>
+			</prgItem>
+		</prgData>
+		<prgData yobi='5'>
+			<prgItem>
+				<st>500</st>
+				<en>530</en>
+				<name></name>
+			</prgItem>
+			<prgItem>
+				<st>530</st>
+				<en>548</en>
+				<name>天気予報</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>548</st>
+				<en>550</en>
+				<name>オープニング</name>
+			</prgItem>
+			<prgItem>
+				<st>550</st>
+				<en>645</en>
+				<name>朝の時代劇　桃太郎侍</name>
+				<rate>さよならだけが人生だ！　◇世の中の鬼退治！気は優しくて力持ち、長屋一同の信望を集める桃太郎侍、しかしその実態は…ご存知痛快人情時代劇</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>高橋英樹
+野川由美子
+藤岡琢也
+玉川スミ
+</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>645</st>
+				<en>650</en>
+				<name>メダカのコタロー</name>
+				<rate>ひょうごの自然環境を守ろう！　いなみ野ため池ミュージアム編②</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>650</st>
+				<en>655</en>
+				<name>コタローとおはよ～！</name>
+				<rate>◇ひょうごの農村環境を守ろう！ぼくたちキラリ輝き応援団</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>655</st>
+				<en>700</en>
+				<name>天気予報</name>
+				<rate>今日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>700</st>
+				<en>730</en>
+				<name>琉神マブヤー３（ミーチ）</name>
+				<rate>世果報（ゆがふ）のマブイストーンがデージなってる！（前編）◇マブヤーの魂を失ったカナイは、厳しい修行の旅に出る！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>特撮</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>翁長大輔
+末吉功治
+仲本紫野
+ほか</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ</name>
+					<item>争った痕跡を残し、道場はもぬけの殻になっていた。徐々に変わりゆくハブデービル／ニフェはもはや自我を保つことが出来なくなってしまっていた。伝説のマジムンデービル復活の生け贄を求め、クレアに襲いかかるニフェの企みは一時、帰郷したカナイによって阻止された。しかしその頃、「世果報のマブイストーン」がマジムンたちによって奪われてしまう。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ２</name>
+					<item>マブイストーンを取り戻すため立ち上がるマブヤーたちの不在を狙って、とうとうクレアはニフェにさらわれてしまう。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>730</st>
+				<en>800</en>
+				<name>魔法騎士レイアース</name>
+				<rate>伝説の鉱物エスクード◇突然、異世界セフィーロに導かれた３人の少女は魔法騎士として、エメロード姫を救出するために戦いの冒険に旅立つ！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+椎名へきる
+吉田小南美
+笠原弘子
+緒方恵美
+佐々木望
+白鳥由里
+山崎たくみ
+小杉十郎太
+天野由梨
+篠原恵美
+高山みなみ
+置鮎龍太郎
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>800</st>
+				<en>815</en>
+				<name>ふく苗のひみつの京都</name>
+				<rate>ぼたん鍋の秘密◇京都の豆知識的な雑学を楽しく学べる「京知識バラエティー」現役の京舞妓・ふく苗さんとご一緒しませんか？</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>グルメ・料理</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>歴史・紀行</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>ふく苗（京舞妓）
+【ナレーション】
+桂春蝶（落語家）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>815</st>
+				<en>830</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>830</st>
+				<en>900</en>
+				<name>お茶の間ショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>900</st>
+				<en>915</en>
+				<name>まる得インフォメーション</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>915</st>
+				<en>930</en>
+				<name>歌謡花舞台</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>歌謡曲・演歌</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+大川ゆり
+夢香
+島津健
+ほか
+【司会】
+加山こうじ
+大空美樹</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>930</st>
+				<en>1000</en>
+				<name>健康情報テレビ</name>
+				<rate>健やか元気人（アサヒ緑健）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1000</st>
+				<en>1030</en>
+				<name>演歌ＴＶ．ｃｏｍ</name>
+				<rate>～唄であいましょう～舞ひろ子　ほか</rate>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>歌謡曲・演歌</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>舞ひろ子
+坂本ひろし
+宝愛
+奥野てる子
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1030</st>
+				<en>1100</en>
+				<name>チャームライフ</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1100</st>
+				<en>1155</en>
+				<name>ドラマ１１　棚ぼたのあなた</name>
+				<rate>＜字幕スーパー＞◇最強の嫁ヒロインが嫁ぎ先の大家族と繰り広げるロマンティックホームコメディ！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>キム・ナムジュ
+ユ・ジュンサン
+カン・ミンヒョク
+ユン・ユジョン</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ</name>
+					<item>セグァンとマルスクは路地でキスしているところをユニに見つかり、顔を隠して走って逃げる。別人のようにユニに親切になったマルスクを不審がる家族たち。ジェヨンははずみでイスクに好きだと言ってしまうが、イスクは冗談だと思って受け流す。ジャンスは旅先のチョンエに電話してこれまでの労をねぎらうが、はめを外したチョンエたちは、3人組の詐欺師にひっかかり財布を盗まれてしまう。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1155</st>
+				<en>1200</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1200</st>
+				<en>1257</en>
+				<name>時代劇アワー　暴れん坊将軍Ⅱ</name>
+				<rate>男は愛嬌、女はチカラで勝負する！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>松平健
+横内正
+有島一郎
+北島三郎
+春川ますみ
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1257</st>
+				<en>1300</en>
+				<name>天気予報</name>
+				<rate>今日の天気（ベルコ）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1300</st>
+				<en>1355</en>
+				<name>韓国ドラマ　宮廷女官チャングムの誓い</name>
+				<rate>&lt;字幕スーパー&gt;真相究明◇不幸な家庭環境に生まれたチャングムが、偉大なるチャングムの称号をもらうまでの波乱の半生を描く！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>海外ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>あらすじ１</name>
+					<item>「呪いの札」陰謀の主謀者を察したチョン最高尚宮（チェゴサングン）。全貌を明らかにしようと、チャングムとクミョンの取調べを官憲に委ねることに。そこへ女官長が現われ、不問に付すように命じる。反発するチョン最高尚宮（チェゴサングン）だが、女官長に詰め寄られ引渡しを1日引き延ばすことに。その間に、チャングムに罪を被せるべく、女官長とチェ尚宮（サングン）はあらゆる手を打つ。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ２</name>
+					<item>チョン最高尚宮（チェゴサングン）と同じく事の真相を察するハン尚宮（サングン）は、チャングムの無罪を明かそうと、ヨンセンの発言を頼りに「チャングムが探していたもの」を見つけ出そうとする。しかしチャングムは今こそ亡き父母の遺言を守ると言い、真実を口にしない。
+このところ容体の優れない王子を気遣い、中宗は特別料理を用意させる。</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ３</name>
+					<item>しかし、それを食べた王子の手足が麻痺、料理を作ったカン・ドックが取り調べを受けることに。トックの人柄を知るチョン最高尚宮（チェゴサングン）たちは納得がいかない。しかし麻痺の原因が特定できない医者たちは、料理に毒が混入されていたと主張してくる。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1355</st>
+				<en>1400</en>
+				<name>天気予報</name>
+				<rate>今夜の天気（学会の天気）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1400</st>
+				<en>1430</en>
+				<name>インフォマーシャル</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1430</st>
+				<en>1455</en>
+				<name>お買物生活情報</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1455</st>
+				<en>1500</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1500</st>
+				<en>1555</en>
+				<name>金曜ドラマ　イタズラなＫｉｓｓ　～Ｌｏｖｅ　ｉｎ　ＴＯＫＹＯ</name>
+				<rate>運命のイタズラ◇不朽の恋愛バイブル“イタキス”が17年ぶりに日本でドラマ化！</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>国内ドラマ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>未来穂香
+古川雄輝
+山田裕貴
+西村知美
+芋洗坂係長
+田中要次
+</item>
+				</extended_event>
+				<extended_event>
+					<name>あらすじ</name>
+					<item>重樹が心臓発作で倒れ、容態が落ち着くまで会社を手伝うことになった直樹だったが、思った以上に深刻な経営状態と知る。大学を休学し仕事に専念する直樹の体だけでなく、医者への夢をあきらめなければならないのか心配する琴子はかいがいしく世話を焼く。一方、松本は直樹へ告白することを決意、それを知った琴子は…。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1555</st>
+				<en>1600</en>
+				<name>サウンドコンポ</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>国内ロック・ポップス</level_2>
+				</content_nibble>
+				<user_nibble>中止の可能性あり</user_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1600</st>
+				<en>1655</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1655</st>
+				<en>1700</en>
+				<name>洲本温泉と淡路島の観光</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>グルメ・料理</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1700</st>
+				<en>1745</en>
+				<name>５時に夢中！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1745</st>
+				<en>1750</en>
+				<name>いいね！テニス</name>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1750</st>
+				<en>1800</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1800</st>
+				<en>2124</en>
+				<name>サンテレビボックス席　広島×阪神（マツダスタジアム）</name>
+				<rate>　◇試合終了まで、延長の場合以降の番組繰り下げて放送</rate>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>野球</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト解説】
+西山秀二
+【解説】
+中田良弘
+【実況】
+湯浅明彦
+【リポーター】
+木内亮</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2124</st>
+				<en>2126</en>
+				<name>天気予報</name>
+				<rate>明日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2126</st>
+				<en>2130</en>
+				<name>サンぷん！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2130</st>
+				<en>2200</en>
+				<name>ＮＥＷＳ　ＰＯＲＴ</name>
+				<rate>　　◇神戸・ポートアイランドから県内のニュースを発信！！</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>小浜英博
+影谷かおり
+前田勝久（気象予報士）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2200</st>
+				<en>2230</en>
+				<name>四季の釣り</name>
+				<rate>管理池で釣り大会へらぶな入門、伊丹章もチャレンジ！</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【釣り人】
+加治屋浩
+【ナビゲーター】
+伊丹章</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>大阪府貝塚市にある『水藻フィッシングセンター』で、へらぶなを狙う。フィッシングアドバイザーはマルキユー・インストラクターの加治屋浩。この日は『2016へらぶなフェアペアマッチ』が開催され、参加者は親子やカップルなど、約90名。今回は大会の模様を紹介しながら、初心者でも簡単な釣り方も説明。伊丹も久々にチャレンジして、へらぶな釣りを楽しむ。番組ではエサの作り方や釣り方のポイントなども詳しく解説する。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2230</st>
+				<en>2300</en>
+				<name>競馬展望プラス</name>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>競馬・公営競技</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2300</st>
+				<en>2330</en>
+				<name>ＬＯＶＥ☆ＧＯＬ２</name>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>ゴルフ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>久松郁実
+小林さり
+マダム信子</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2330</st>
+				<en>2400</en>
+				<name>少年メイド</name>
+				<rate>◇母を亡くして天涯孤独の身となった少年、千尋。叔父の家の「メイド」として働くことになった千尋は一体どうなるのか！？</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+藤原夏海
+島崎信長
+前野智昭
+牧野由依
+斎賀みつき
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2400</st>
+				<en>2430</en>
+				<name>ラクエンロジック</name>
+				<icon>[再]</icon>
+				<icon>[終]</icon>
+				<rate>運と論理と／Ｌｕｃｋ　ａｎｄ　Ｌｏｇｉｃ◇未来を決めるのは運と理論。その狭間に揺られ成長していく少年少女たちの異世界ＳＦバトルアクション！</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+小野賢章
+上坂すみれ
+種田梨沙
+東山奈央
+徳井青空
+</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2430</st>
+				<en>2445</en>
+				<name>美容専科きれい</name>
+				<rate>今週のテーマ：目の下の膨らみを取って若々しく</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】池内秀行　武川奈央</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2445</st>
+				<en>2500</en>
+				<name>大阪芸大テレビ</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2500</st>
+				<en>2515</en>
+				<name>新Ｐ-ｓｔｙｌｅ　ＴＶ</name>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>麻雀・パチンコ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2515</st>
+				<en>2610</en>
+				<name>ケンコバのバコバコテレビ</name>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>トークバラエティ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2610</st>
+				<en>2640</en>
+				<name>ＴＨＩＳ　ＷＥＥＫ　ｉｎ　ＷＷＥ</name>
+				<rate>▽全世界がシビれる究極のエンターテイメント！！劇的なストーリーとド迫力のアクション！　“ロウ”　“スマックダウン”のストーリーラインを毎週一挙にハイライトで紹介</rate>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>相撲・格闘技</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2640</st>
+				<en>2641</en>
+				<name>クロージング</name>
+			</prgItem>
+		</prgData>
+		<prgData yobi='6'>
+			<prgItem>
+				<st>430</st>
+				<en>515</en>
+				<name></name>
+			</prgItem>
+			<prgItem>
+				<st>515</st>
+				<en>528</en>
+				<name>天気予報</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>528</st>
+				<en>530</en>
+				<name>オープニング</name>
+			</prgItem>
+			<prgItem>
+				<st>530</st>
+				<en>600</en>
+				<name>インフォマーシャル</name>
+				<rate>佐世保発テレビショッピング！特価商品や最新家電、限定アイテムをドンドン紹介します！期待を裏切らない商品が登場します！お楽しみに！（ジャパネットたかた）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>600</st>
+				<en>630</en>
+				<name>手づくり花づくり</name>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>園芸・ペット・手芸</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>630</st>
+				<en>700</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>700</st>
+				<en>730</en>
+				<name>プレミアム歌謡ショー</name>
+				<rate>◇一流のプロ歌手が続々と新曲を披露</rate>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>歌謡曲・演歌</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【司会】
+瀬戸つよし
+【アシスタント】
+竹村美緒
+【出演】
+出光仁美</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>730</st>
+				<en>800</en>
+				<name>１２歳。～ちっちゃなムネのトキメキ～</name>
+				<rate>◇オトナでもないコドモでもない12歳の、ピュアな悩みと初恋を描く</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+加隈亜衣
+木村珠莉
+斉藤壮馬
+堀江瞬
+牧口真幸
+原紗友里
+柿原徹也
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>800</st>
+				<en>830</en>
+				<name>とくモリ！</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>830</st>
+				<en>845</en>
+				<name>こんにちは県警です</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>845</st>
+				<en>900</en>
+				<name>最新ギフト情報</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>900</st>
+				<en>930</en>
+				<name>西はりまサタデー９</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>930</st>
+				<en>1000</en>
+				<name>健康ショップ</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1000</st>
+				<en>1015</en>
+				<name>みんなの音楽会ＴＶ</name>
+				<rate>◇地元地域のコンサートや演奏会情報・クラッシックを中心に独唱独奏リサイタルやアンサンブル、室内楽コンサート、オペラのリハや立ち稽古から本公演までの軌跡なども紹介</rate>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>上原拓也（どみそ音楽事務所）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1015</st>
+				<en>1030</en>
+				<name>インフォマーシャル</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1030</st>
+				<en>1100</en>
+				<name>健康に感謝</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1100</st>
+				<en>1130</en>
+				<name>原田伸郎のめざせパーゴルフⅢ</name>
+				<icon>[再]</icon>
+				<rate>ショートホールで大波乱！倉本プロも苦戦！？◇今回の戦いの舞台は、奈良県天理市にあります春日台カントリークラブ。</rate>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>ゴルフ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト】
+倉本昌弘プロ
+松木安太郎
+【出演】
+原田伸郎
+井戸木鴻樹
+徳原恵梨</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1130</st>
+				<en>1154</en>
+				<name>通販ＤＸ！</name>
+				<rate>▽話題商品（メディカルスパッツ）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1154</st>
+				<en>1157</en>
+				<name>テレビいきいき脳体操</name>
+				<rate>▽かず数え、朗読、簡単な計算の「読み書き計算」で脳の健康を！</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>幼児・小学生</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>生涯教育・資格</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>飯田菜奈
+森絵梨佳（いきいきフィットネス）
+【監修】　川島隆太（東北大学教授）</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>脳の活性化、認知症予防のテレビ版「読み書き計算」。楽しくテレビに向かって、かずを数えたり、読んだり、簡単な計算をして、脳の健康を！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1157</st>
+				<en>1200</en>
+				<name>天気予報</name>
+				<rate>今日の天気（ベルコ）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1200</st>
+				<en>1255</en>
+				<name>ええじゃないか。</name>
+				<rate>大阪で生きものとふれあうええ旅さがし▽海遊館の新体感エリア▽感性にふれる話題のミュージアムニフレル</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>堀口文宏
+（あさりど）
+萩美香
+（元ミス日本）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1255</st>
+				<en>1300</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1300</st>
+				<en>1400</en>
+				<name>午後キュン</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>芸能・ワイドショー</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1400</st>
+				<en>1455</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1455</st>
+				<en>1500</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1500</st>
+				<en>1600</en>
+				<name>うまＤＯＫＩ</name>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>競馬・公営競技</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【司会】
+細川茂樹
+【アシスタント】
+山本愛子</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1600</st>
+				<en>1630</en>
+				<name>いいね！テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1630</st>
+				<en>1725</en>
+				<name>佐世保発生放送テレビショッピング！夏のエアコン祭り</name>
+				<rate>３０周年夏のエアコン祭り開催中！今年も厳選したエアコンを特価でご紹介！標準取付工事費も込み！生放送だからできる、旬な商品を特別価格でお届け！お見逃しなく！</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1725</st>
+				<en>1730</en>
+				<name>午後キュンα</name>
+				<rate>５分間とっておき情報</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>小林真樹子
+谷口英明</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1730</st>
+				<en>1735</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1735</st>
+				<en>1740</en>
+				<name>天気予報</name>
+				<rate>明日の天気</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1740</st>
+				<en>1745</en>
+				<name>サウンドコンポ</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>国内ロック・ポップス</level_2>
+				</content_nibble>
+				<user_nibble>中止の可能性あり</user_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1745</st>
+				<en>1800</en>
+				<name>姫路のひろば（再）</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1800</st>
+				<en>1830</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1830</st>
+				<en>1900</en>
+				<name>北海道ぶらり旅</name>
+				<rate>新緑とグルメの癒し　然別湖　／　大自然と地元グルメ　大沼◇四季ごとに美しい表情を見せる北海道の自然や風景、訪れる人々を魅了してやまない北海道をぶらり旅します</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1900</st>
+				<en>2000</en>
+				<name>ぶらり途中下車の旅</name>
+				<rate>◇今まで見過ごしていた風景やふれあいに出会えるぶらり旅…「あれ食べたい」「あそこへ行きたい」　東京近辺路線の旅行ガイド</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>
+【ナレーション】
+小日向文世</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2000</st>
+				<en>2054</en>
+				<name>土曜時代劇　新・三匹が斬る！</name>
+				<rate>非情剣！これが噂のオオカミ男</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>高橋英樹
+役所広司
+春風亭小朝
+長山洋子
+朝丘雪路
+</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2054</st>
+				<en>2124</en>
+				<name>志村の時間</name>
+				<rate>結婚式の挨拶で澤部珍スピーチ</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>志村けん
+澤部佑
+丸高愛美
+高嶋香帆
+橋本マナミ</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2124</st>
+				<en>2127</en>
+				<name>サンテレビニュース</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2127</st>
+				<en>2130</en>
+				<name>天気予報</name>
+				<rate>明日の天気（夢舞台）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2130</st>
+				<en>2200</en>
+				<name>趣味バカ</name>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2200</st>
+				<en>2225</en>
+				<name>オードリーさん、ぜひ会って欲しい人がいるんです！</name>
+				<rate>◇オードリーに会って欲しいと投稿された面白素人とＭＣオードリーのやり取りが笑いの化学反応を起こす！「クチコミ」を使って視聴者を巻き込む新型クチコミバラエティー</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>お笑い・コメディ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【司会】
+オードリー(若林正恭、春日俊彰)
+【アシスタント】
+市野瀬瞳</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>今週は、間もなく長男が生まれるという番組準レギュラーの素人・日下部が、子供の名前を考えて欲しいと相談に。嫁の意向によりキラキラネームを全員で考えることになったのだが果たしてどんな名前になったのか？また、椅子取りゲーム最強という女優がスタジオに。市野瀬アナに最大のライバルが立ちはだかる！そして、話がつまらないといわれ悩んでいる大学生に、春日がとっておきの必殺技を授ける！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2225</st>
+				<en>2230</en>
+				<name>午後キュンβ</name>
+				<rate>５分間とっておき情報</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>小林真樹子
+谷口英明</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2230</st>
+				<en>2300</en>
+				<name>みるみるミルキィ</name>
+				<icon>[終]</icon>
+				<rate>　◇声優ユニット「ミルキィホームズ」が“ミルキアン”を増やしたい！をテーマに笑いあり感動あり！？な企画に挑戦</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>イベント</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>三森すずこ
+徳井青空
+佐々木未来
+橘田いずみ</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2300</st>
+				<en>2330</en>
+				<name>ＥＡＳＹ　ＧＯＬＦ</name>
+				<rate>◇ゴルフってこんなに面白い！アスリートとのプレーを通じて、ゴルフの面白さ・楽しみ方を実践で伝えます</rate>
+				<content_nibble>
+					<level_1>スポーツ</level_1>
+					<level_2>ゴルフ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+S・K・ホ
+【ゲスト】
+桧山進次郎
+宮田志乃プロ
+藤崎莉歩プロ
+【司会】
+梅田淳</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>ゴルファーたちが何より目指すのはスコアアップ。しかし、ある程度キャリアを重ねたゴルファーがぶつかるのが「スコアアップの限界」！１００切り、そして憧れの８０台を目指すためにはどうすればいいのか？トッププロが実践を通してスコアアップの秘訣を伝授します。</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>これは、ある程度キャリアを積んできたからこそ、自己流に陥り、今更人に聞けない…雑誌や本、ＤＶＤを見てもスコアアップの方法がいまいちわからない…といった迷えるゴルファーのための番組です。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2330</st>
+				<en>2425</en>
+				<name>カツヤマサヒコＳＨＯＷ</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>芸能・ワイドショー</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>トークバラエティ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2425</st>
+				<en>2430</en>
+				<name>天気予報</name>
+				<rate>今日の天気（グランシャトー）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2430</st>
+				<en>2500</en>
+				<name>パチＦＵＮ！</name>
+				<rate>パチンコ・パチスロエンタメ情報</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>麻雀・パチンコ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+クールポコ。
+松村邦洋
+市原佑梨
+ザ・たっち
+にしおかすみこ
+小林恵美
+コウメ太夫
+相川友希
+尾崎ナナ
+ホリ
+ホームランなみち
+☆まかりな☆</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2500</st>
+				<en>2530</en>
+				<name>おにぎりあたためますか</name>
+				<icon>[字]</icon>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>福祉</level_1>
+					<level_2>文字（字幕）</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2530</st>
+				<en>2600</en>
+				<name>カーグラフィックＴＶ</name>
+				<rate>ジャガー恐るべし　ＸＦもディーゼルのＸＥも実にイイ◇注目の新車試乗を中心に独自の視点からさまざまなモーターカルチャーを取り上げる。</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>車・オートバイ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>松任谷正隆　
+田辺　憲一　
+【ナレーター】
+古谷徹</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>話題のジャガーの新型ＸＦと日本に上陸した「インジニウム」ディーゼルのXEのＲスポーツを試乗。メルセデスＣのディーゼルと合わせていま最も魅力的なセダンの特集。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2600</st>
+				<en>2630</en>
+				<name>エンドライド</name>
+				<rate>孤島◇地球の裏側に広がる未知なる世界、エンドラ！そこに舞い降りた少年と、復讐に燃えるエンドラの王子が出会う！運命は？</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+小野賢章
+増田俊樹
+美山加恋
+大橋彩香
+高橋広樹
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2630</st>
+				<en>2631</en>
+				<name>クロージング</name>
+			</prgItem>
+		</prgData>
+		<prgData yobi='7'>
+			<prgItem>
+				<st>430</st>
+				<en>515</en>
+				<name></name>
+			</prgItem>
+			<prgItem>
+				<st>515</st>
+				<en>528</en>
+				<name>天気予報</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>528</st>
+				<en>530</en>
+				<name>オープニング</name>
+			</prgItem>
+			<prgItem>
+				<st>530</st>
+				<en>600</en>
+				<name>インフォマーシャル</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>600</st>
+				<en>630</en>
+				<name>四季の釣り</name>
+				<icon>[再]</icon>
+				<rate>管理池で釣り大会へらぶな入門、伊丹章もチャレンジ！</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【釣り人】
+加治屋浩
+【ナビゲーター】
+伊丹章</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>630</st>
+				<en>700</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>700</st>
+				<en>730</en>
+				<name>ライフ・ライン</name>
+				<rate>「ライフ・ラインのつどいｉｎ新潟」</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>生涯教育・資格</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>730</st>
+				<en>800</en>
+				<name>ＴＡＫＡＲＡＺＵＫＡカフェブレイク</name>
+				<rate>北翔海莉（ほくしょうかいり）編◇宝塚歌劇の舞台の魅力、裏話、生徒たちの素顔をたっぷりお届けします。「カフェブレイク」できっと舞台がより楽しめるはず！</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>トークバラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト】
+北翔海莉
+【司会】
+中井美穂</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>800</st>
+				<en>830</en>
+				<name>ベストヒットＷＯＲＬＤ　ＧＡＬＬＥＲＹ</name>
+				<rate>▽暮らしの話題アイテム（マニフィカ）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>830</st>
+				<en>900</en>
+				<name>ひょうご“ワイワイ”</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>福祉</level_1>
+					<level_2>手話</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>900</st>
+				<en>930</en>
+				<name>はりきりテレビダイレクト～だって日曜だもん～</name>
+				<rate>▽健康が気になる方に</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>930</st>
+				<en>1000</en>
+				<name>アサスマ！</name>
+				<rate>◇朝からスマイル！お得な情報</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1000</st>
+				<en>1015</en>
+				<name>みんなで歌おう♪楽しい童謡コーラス</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>童謡・キッズ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1015</st>
+				<en>1030</en>
+				<name>日曜歌謡ステージ</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>カラオケ・のど自慢</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>愛田幾也
+生駒尚子
+大川ゆり</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1030</st>
+				<en>1045</en>
+				<name>ダイレクトＰｉｃｋ　Ｕｐ！！</name>
+				<rate>▽日常生活をスムーズに</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1045</st>
+				<en>1100</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1100</st>
+				<en>1153</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1153</st>
+				<en>1157</en>
+				<name>コンパスナビＴＶ</name>
+				<rate>須磨友が丘高校／ウエイトリフティング部</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>番組紹介・お知らせ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ナビゲーター】
+佐藤美樹</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1157</st>
+				<en>1200</en>
+				<name>天気予報</name>
+				<rate>今日の天気（ベルコ）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1200</st>
+				<en>1225</en>
+				<name>レミさんちの食卓</name>
+				<rate>母との思い出の味◇人気料理愛好家・平野レミの家族の味とは…妻であり、母でもある平野レミの楽しく温かい料理番組</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>グルメ・料理</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>平野レミ
+和田明日香（食育インストラクター）</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>人気料理愛好家・平野レミの家族の味。夫であるイラストレーターの和田誠さんをはじめ、子供、孫たちといつも囲んできた料理をその思い出とともに紹介。次男の嫁で食育インストラクターの和田明日香に和田家の味として継承します。第４回目のテーマは、母との思い出の味。鰹節を削る音が、毎朝の目覚まし時計代わりだったという、平野レミ。</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容２</name>
+					<item>１品目はそんな母を思い出す、優しく出汁が香る「さばと大根の汁もの」を紹介します。２品目は、友達が家に遊びに来たときによく振る舞ってくれたという「豚生姜丼」です。メニュー：さばと大根の汁もの、豚生姜丼</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1225</st>
+				<en>1230</en>
+				<name>花音～夢・音めぐり～</name>
+				<rate>ローカル線に魅せられて　◇人の心に潤いを与える“音”　…思い出の中で忘れなれない風景があるように誰にも忘れられない“音”がある、“音”を通じて心の潤いと上質の時</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>自然・動物・環境</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1230</st>
+				<en>1300</en>
+				<name>演歌百撰</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>歌謡曲・演歌</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1300</st>
+				<en>1355</en>
+				<name>斎王～幻の宮の皇女～</name>
+				<rate>御食国と斎宮◇斎王に選ばれた皇女たちの生きざまにせまる！</rate>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>歴史・紀行</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ナレーション】
+奥田瑛二</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1355</st>
+				<en>1400</en>
+				<name>歌のキラ星</name>
+				<rate>『ひめごと』　青木あき</rate>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>歌謡曲・演歌</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1400</st>
+				<en>1455</en>
+				<name>ビッグ・フィッシング</name>
+				<icon>[再]</icon>
+				<rate>美山川のアユ▽門脇カラー魚拓挑戦</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト解説】
+安田明彦
+【司会】
+オール阪神
+【アシスタント】
+門脇佳奈子
+【釣り場情報】
+涼宮菜月</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1455</st>
+				<en>1500</en>
+				<name>サウンドコンポ</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>国内ロック・ポップス</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1500</st>
+				<en>1655</en>
+				<name>佐世保発生放送テレビショッピング！夏のエアコン祭り</name>
+				<rate>３０周年夏のエアコン祭り開催中！今年も厳選したエアコンを特価でご紹介！標準取付工事費も込み！生放送だからできる、旬な商品を特別価格でお届け！お見逃しなく！</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1655</st>
+				<en>1700</en>
+				<name>ＣＭを作ろう！！</name>
+				<rate>「ダイハツ明石西」編</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1700</st>
+				<en>1730</en>
+				<name>温泉女子</name>
+				<icon>[再]</icon>
+				<rate>合掌造りの里　白川郷で大自然を満喫する旅！絶景秘湯◇週末にエステやジムに行く感覚で温泉地に行ければ最高！行きたい時に行ける１泊２日の気軽な温泉旅をご紹介</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+山口実香
+下園千晴</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1730</st>
+				<en>1800</en>
+				<name>健康情報テレビ</name>
+				<rate>健やか元気人（アサヒ緑健）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>健康・医療</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1800</st>
+				<en>1822</en>
+				<name>日曜夕刊</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>定時・総合</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1822</st>
+				<en>1824</en>
+				<name>天気予報</name>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1824</st>
+				<en>1830</en>
+				<name>洲本温泉と淡路島の観光</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>グルメ・料理</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1830</st>
+				<en>1900</en>
+				<name>ウドちゃんの旅してゴメン</name>
+				<rate>そよぐ風　水の都でどんぶらこ　岐阜・大垣市</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+ウド鈴木
+（キャイ～ン）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>1900</st>
+				<en>1955</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>1955</st>
+				<en>2000</en>
+				<name>美容専門学校</name>
+				<rate>１年生初コンテスト（ストレート）２０１６　◇グラムール美容専門学校紹介</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>生涯教育・資格</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2000</st>
+				<en>2055</en>
+				<name>ＮＩＰＰＯＮミクロ→マクロ旅「鳥取編」</name>
+				<rate>ドローン映像きっかけツアーバラエティ◇ハマカーンが、ドローン映像の「これなんだ？」をきっかけに鳥取を横断旅！地元の人々に出会い歴史に触れ、新たな鳥取を発見</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>歴史・紀行</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【出演】
+ハマカーン
+中尾真亜理（日本海テレビアナウンサー）
+【ナレーション】
+中込真理子</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>普段よく知っているあの場所もドローン映像で見れば驚きの映像に。近距離映像のミクロとドローン映像のマクロを組み合わせると、鳥取の新しい一面が見えてきます。今回旅をするのはハマカーン。ドローン映像のこれナンダ？をきっかけに中尾アナとともに鳥取を巡ります。街では地元の個性的な人々に出会い、鳥取の知られざる歴史にも触れ、もちろんグルメや温泉もあり。普通の旅番組とは一味違う新しい鳥取旅をお届けします！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2055</st>
+				<en>2100</en>
+				<name>こちらサンテレビです</name>
+				<rate>５月度番組審議会より</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>番組紹介・お知らせ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2100</st>
+				<en>2154</en>
+				<name>日曜時代劇　必殺仕事人Ⅲ</name>
+				<rate>全財産をなくしたのは加代</rate>
+				<content_nibble>
+					<level_1>ドラマ</level_1>
+					<level_2>時代劇</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>藤田まこと
+中条きよし
+三田村邦彦
+山田五十鈴
+鮎川いずみ
+ひかる一平
+菅井きん
+白木万理
+ほか</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2154</st>
+				<en>2156</en>
+				<name>天気予報</name>
+				<rate>明日の天気（フジバンビ）</rate>
+				<content_nibble>
+					<level_1>ニュース／報道</level_1>
+					<level_2>天気</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2156</st>
+				<en>2200</en>
+				<name>日曜よるまるひめ</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2200</st>
+				<en>2225</en>
+				<name>キラリけいざい</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>暮らし・住まい</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2225</st>
+				<en>2230</en>
+				<name>小森さんは断れない！</name>
+				<rate>総集編</rate>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【声の出演】
+内田彩
+小澤亜李
+長縄まりあ</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2230</st>
+				<en>2245</en>
+				<name>ワンラブショッピング</name>
+				<rate>▽体が喜ぶ特別な一杯（にんじんジュース）</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2245</st>
+				<en>2300</en>
+				<name>ボートの時間！</name>
+				<rate>ボートレース住之江の情報満載15分！</rate>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>芸能・ワイドショー</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>【ゲスト】
+伊藤喜智（ボートレーサー）
+【司会】
+永島知洋
+【ナビゲーター】
+藤村椿</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>大人気企画？「実践検証　永島ラボ！」第３弾！
+前回の検証はまさかの坊主！今回は？！
+ボートレースビギナー必見のコーナー「Ｌｅｃｔｕｒｅ　ｆｏｒ　Ｂｅｇｉｎｎｅｒｓ」レッスン１４はチルトについてです。</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2300</st>
+				<en>2330</en>
+				<name>生×カラ！ＴＶ</name>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>音楽バラエティ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2330</st>
+				<en>2400</en>
+				<name>俺旅。</name>
+				<icon>[再]</icon>
+				<rate>自分の足で世界を見よう！▽若手俳優２名２組が世界を旅するドキュメンタリー！待望のテレビシリーズ化！</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>ドキュメンタリー全般</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>村井良大
+佐藤貴史
+
+松田凌
+畠山遼</item>
+				</extended_event>
+				<extended_event>
+					<name>番組内容</name>
+					<item>◇村井良大＆佐藤貴史は、ミュージカルの本場「ニューヨーク」へ
+◇松田凌＆畠山遼の仲良しコンビが、台湾の食・景色・伝統舞踊にチャレンジする！</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2400</st>
+				<en>2415</en>
+				<name>テレビショッピング</name>
+				<content_nibble>
+					<level_1>情報／ワイドショー</level_1>
+					<level_2>ショッピング・通販</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2415</st>
+				<en>2430</en>
+				<name>Ｌｉｋｅ　ａ　Ｗｉｎｄ</name>
+				<rate>バイクライフ浪漫</rate>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>車・オートバイ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2430</st>
+				<en>2455</en>
+				<name>秘境駅を旅する</name>
+				<content_nibble>
+					<level_1>ドキュメンタリー／教養</level_1>
+					<level_2>歴史・紀行</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>趣味／教育</level_1>
+					<level_2>旅・釣り・アウトドア</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2455</st>
+				<en>2500</en>
+				<name>サウンドコンポ</name>
+				<content_nibble>
+					<level_1>音楽</level_1>
+					<level_2>国内ロック・ポップス</level_2>
+				</content_nibble>
+				<user_nibble>中止の可能性あり</user_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2500</st>
+				<en>2530</en>
+				<name>ラブライブ！サンシャイン！！　ＴＶアニメ放送直前特番</name>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>その他</level_2>
+				</content_nibble>
+				<content_nibble>
+					<level_1>アニメ／特撮</level_1>
+					<level_2>国内アニメ</level_2>
+				</content_nibble>
+			</prgItem>
+			<prgItem>
+				<st>2530</st>
+				<en>2600</en>
+				<name>いろはに千鳥</name>
+				<rate>京都でマジックショッピング！</rate>
+				<content_nibble>
+					<level_1>バラエティ</level_1>
+					<level_2>旅バラエティ</level_2>
+				</content_nibble>
+				<extended_event>
+					<name>出演者</name>
+					<item>大悟（千鳥）
+ノブ小池（千鳥）</item>
+				</extended_event>
+			</prgItem>
+			<prgItem>
+				<st>2600</st>
+				<en>2601</en>
+				<name>クロージング</name>
+			</prgItem>
+		</prgData>
+	</prgDataEntry>
+</timeTable>
