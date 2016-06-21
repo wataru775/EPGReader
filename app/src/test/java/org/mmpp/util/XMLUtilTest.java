@@ -1,10 +1,7 @@
 package org.mmpp.util;
 
 import org.junit.Test;
-import org.mmpp.rssreader.parser.suntv.ProgramItem;
-import org.mmpp.rssreader.parser.suntv.ProgramItemParser;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 import static org.junit.Assert.*;
@@ -13,7 +10,6 @@ import static org.junit.Assert.*;
  * Created by wataru-n on 2016/06/17.
  */
 public class XMLUtilTest {
-    private static XMLUtil util;
 
     @Test
     public void testSplitSourceTagNameSimple() throws IOException {
@@ -23,8 +19,17 @@ public class XMLUtilTest {
         String source =FileUtil.readStringFromFile(targetFile);
         String answer =FileUtil.readStringFromFile(answerFile);
 
-        ;
+        assertEquals(answer,XMLUtil.splitSourceTagName(source,"prgItem",true).get(0));
+    }
+    @Test
+    public void testHTML1() throws IOException {
+        java.io.File targetFile = new java.io.File( this.getClass().getClassLoader().getResource("util/xmlutil-test1.txt").getPath());
+        java.io.File answerFile = new java.io.File( this.getClass().getClassLoader().getResource("util/xmlutil-test1.txt").getPath());
 
-        assertEquals(answer,util.splitSourceTagName(source,"prgItem",true).get(0));
+        String source =FileUtil.readStringFromFile(targetFile);
+        String answer =FileUtil.readStringFromFile(answerFile);
+
+        assertEquals(answer,XMLUtil.splitSourceTagNameWithAttribute(source,"div","class","program_225",true).get(0));
+
     }
 }

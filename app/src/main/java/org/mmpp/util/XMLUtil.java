@@ -1,5 +1,7 @@
 package org.mmpp.util;
 
+import java.util.Map;
+
 /**
  * Created by wataru-n on 2016/06/17.
  */
@@ -47,4 +49,30 @@ public class XMLUtil {
         return results;
     }
 
+    /**
+     * クラスと属性値の
+     * @param source
+     * @param tagName
+     * @param attributeName
+     * @param attributeValue
+     *@param b  @return
+     */
+    public static java.util.List<String> splitSourceTagNameWithAttribute(String source, String tagName, String attributeName, String attributeValue, boolean b) {
+
+        java.util.List<String> results = new  java.util.LinkedList<String>();
+        for(String tagSource : splitSourceTagName(source,tagName,b)){
+
+            // 最初のタグ情報を取得する
+            String tagLine = tagSource.substring(0,tagSource.indexOf(">"));
+
+            Map<String,String> attributes = StringUtil.castStringMap(tagLine);
+            if(!attributes.containsKey(attributeName))
+                continue;
+            if(!attributes.get(attributeName).equals(attributeValue))
+                continue;
+
+            results.add(tagSource);
+        }
+        return results;
+    }
 }

@@ -1,0 +1,7 @@
+                    <div class="program_225">
+                        <a href="http://www.tv-asahi.co.jp/kasouken/" target="_blank">
+                            <p class="program_time">09:55</p>
+                            <p class="program_name">科捜研の女１３</p>
+                            <p class="icon"><img src="images/icon_03.gif" width="15" height="15" alt="字幕放送"><img src="images/icon_01.gif" width="15" height="15" alt="再放送"></p>
+                        </a>
+                    </div>
